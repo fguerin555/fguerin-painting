@@ -1,0 +1,13 @@
+.MuseoPage {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.MuseoPage p {
+  color: black;
+  font-family: "Montserrat-Thin", Arial, sans-serif;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
