@@ -1,14 +1,14 @@
 import React from "react";
 import "../../Global.css";
 import { Link } from "react-router-dom";
-import styles from "./Home.module.css";
+import styles from "./ItalianoHome.module.css";
 import ScrollToTop from "../../components/ScrollToTop";
 import BackButton from "../../components/BackButton";
 
-const Home = () => {
+const ItalianoHome = () => {
   return (
     <div>
-      <div className={styles.HomePage}>
+      <div className={styles.ItalianoHomePage}>
         <div className={styles.LangageChoice}>
           <div className={styles.EnglishHome}>
             <Link to="/EnglishHome">
@@ -39,9 +39,9 @@ const Home = () => {
           <p>
             2005: Mostra personnale al “VECCHIO FRANTOIO”.
             <br />
-            Capalbio GR.{" "}
+            Capalbio GR.
           </p>
-          <p>2006: Mostra personnale allo “ZOE SPAZIO ARTE”. Roma. </p>
+          <p> 2006: Mostra personnale allo “ZOE SPAZIO ARTE”. Roma. </p>
           <p>
             2007: Mostra collettiva a "L'IMPRONTA" - Amelia Buzzi-Puccini. Roma.
           </p>
@@ -51,29 +51,28 @@ const Home = () => {
             <br />
             "Falce e Martello Simboli di Ferro". Catalogo.
           </p>
-          <p>2009: Mostra collettiva alla “TAKEAWAYGALLERY”.Roma.</p>
+          <p>2009: Group exhibition at “TAKEAWAYGALLERY”.Roma.</p>
           <p>
-            2010: Mostra collettiva itinerante “13 X 17” a cura di Philippe
-            Daverio e Jean Blanchaert.
+            2010: Traveling group exhibition “13 X 17” curated by Philippe
+            Daverio and Jean Blanchaert.
             <br />
-            Biennale di Venezia. Palazzo Fava di Bologna. Spazio d'Arte
-            Alviti.Roma.
+            Venice Biennale. Palazzo Fava in Bologna. Alviti Art Space. Rome.
+            Catalog.
             <br />
-            Catalogo Edizione Rizzoli a cura di Philippe Daverio e Jean
-            Blanchaert
+            Catalog Rizzoli Edition by Philippe Daverio and Jean Blanchaert
           </p>
           <p>
-            2010: Mostra collettiva “24 X 24 “ galleria “OPERA UNICA”.Roma.
+            2010: Group exhibition “24 X 24 “ at gallery “OPERA UNICA”.Rome.
             Catalogo.
           </p>
-          <p>2011: Mostra collettiva "24 X 24" Studio Claudio Abate.Roma</p>
+          <p>2011: Group exhibition "24 X 24" Studio Claudio Abate.Rome</p>
           <p>
-            2012-2016 : Produzione del "Museo Infinito", 1000 pezzi oli su tela
-            di 14 x 9cm.
+            2012-2016 : Produzction of the "Museo Infinito", 1000 pieces oils on
+            canvas of 14 x 9cm.
           </p>
           <p>
-            2022: Produzione Arte Digitale di 110 pezzi par la collezione
-            "Visitors".
+            2022: Digital Art Production of 110 pieces for the "Visitors"
+            collection.
           </p>
           <p>2012 Video "MUSEO INFINITO ONE".</p>
         </div>
@@ -112,4 +111,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default ItalianoHome;

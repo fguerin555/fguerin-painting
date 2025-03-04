@@ -11,7 +11,7 @@ const Navbar = () => {
           <Link to="/">Home</Link>
         </li>
         <li>
-          <Link to="Paint">Paint</Link>
+          <Link to="Paint">Art Works</Link>
         </li>
         <li>
           <Link to="/Museo">Museo Infinito</Link>

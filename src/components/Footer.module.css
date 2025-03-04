@@ -2,7 +2,7 @@
   flex-direction: row;
   height: 92px; /* Hauteur de la bande de couleur */
   width: 100%;
-  background-color: rgba(54, 130, 212, 0.574);
+  background-color: rgba(10, 49, 84, 0.574);
   display: flex;
   padding-bottom: 10px;
   margin-top: 10px;
@@ -18,13 +18,22 @@
   margin: 0 auto;
   gap: 5px;
 }
-.FooterTelephone,
+
 .FooterEmail {
   margin-top: 0;
-  font-family: "Montserrat-Medium", Arial, sans-serif;
+  font-family: "Montserrat-Thin", Arial, sans-serif;
   font-size: 1.5rem;
-  /* color: #0b34db; */
+
   color: white;
+  text-decoration: none;
+}
+.FooterEmail a {
+  margin-top: 0;
+  font-family: "Montserrat-Thin", Arial, sans-serif;
+  font-size: 1.5rem;
+
+  color: white;
+  text-decoration: none;
 }
 @media (max-width: 1224px) {
   .FooterContactInfo {
@@ -42,7 +51,7 @@
       width: 100%;
       font-size: 1rem;
     }
-    .FooterEmail {
+    .FooterEmail a {
       width: 100%;
       font-size: 1rem;
     }

@@ -1,15 +1,20 @@
 import React from "react";
 import "../../Global.css";
 import { Link } from "react-router-dom";
-import styles from "./Home.module.css";
+import styles from "./EnglishHome.module.css";
 import ScrollToTop from "../../components/ScrollToTop";
 import BackButton from "../../components/BackButton";
 
-const Home = () => {
+const EnglishHome = () => {
   return (
     <div>
-      <div className={styles.HomePage}>
+      <div className={styles.EnglishHomePage}>
         <div className={styles.LangageChoice}>
+          <div className={styles.FrancaisHome}>
+            <Link to="/FrancaisHome">
+              <button>Français</button>
+            </Link>
+          </div>
           <div className={styles.EnglishHome}>
             <Link to="/EnglishHome">
               <button>English</button>
@@ -20,34 +25,33 @@ const Home = () => {
               <button>Italiano</button>
             </Link>
           </div>
-          <div className={styles.FrancaisHome}>
-            <Link to="/FrancaisHome">
-              <button>Français</button>
-            </Link>
-          </div>
         </div>
         <p>Frederic Guerin</p>
         <div className={styles.MailLink}>
           <a href="mailto:fguerin555@gmail.com">fguerin555@gmail.com</a>
         </div>
         <div>
-          <p>Nato a Boulogne-Billancourt - France</p>
-          <p>il 13 November 1959</p>
-          <p>Vive in Toscana </p>
-          <p>Studi: Liceo classico</p>
-          <p>2004 : Mostra personale a “L’IMPRONTA”. Roma.</p>
+          <p>Born in Boulogne-Billancourt - France</p>
+          <p>on 13 November 1959</p>
+          <p>Living in Tuscany</p>
+          <p>Studies: Classic Shool</p>
           <p>
-            2005: Mostra personnale al “VECCHIO FRANTOIO”.
-            <br />
-            Capalbio GR.{" "}
+            2004 : Personnal Exibition at “L’IMPRONTA” - Amelia Buzzi-Puccini.
+            Rome.
           </p>
-          <p>2006: Mostra personnale allo “ZOE SPAZIO ARTE”. Roma. </p>
+          <p>
+            2005: Personnal Exibition at “VECCHIO FRANTOIO”.
+            <br />
+            Capalbio. Tuscany.
+          </p>
+          <p>2006: Personnal Exibition at “ZOE SPAZIO ARTE”. Roma. </p>
           <p>
             2007: Mostra collettiva a "L'IMPRONTA" - Amelia Buzzi-Puccini. Roma.
           </p>
-          <p>2008: Mostra personnale alla Galleria Horti Lamiani. Roma.</p>
+          <p>2008: Personnal Exibition at Galleria Horti Lamiani. Roma.</p>
           <p>
-            2009: Mostra collettiva al Museo d'Arte Contemporanea di l'Aquila.
+            2009: Group exhibition at the Museum of Contemporary Art of
+            L’Aquila.
             <br />
             "Falce e Martello Simboli di Ferro". Catalogo.
           </p>
@@ -112,4 +116,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default EnglishHome;
