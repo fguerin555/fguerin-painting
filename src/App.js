@@ -9,6 +9,9 @@ import EnglishHome from "./pages/HomeFile/EnglishHome";
 import ItalianoHome from "./pages/HomeFile/ItalianoHome";
 import Paint from "./pages/PaintFile/Paint";
 import Visitors from "./pages/VisitorsFile/Visitors";
+import EnglishVisitors from "./pages/VisitorsFile/EnglishVisitors";
+import FrancaisVisitors from "./pages/VisitorsFile/FrancaisVisitors";
+import ItalianoVisitors from "./pages/VisitorsFile/ItalianoVisitors";
 import Museo from "./pages/MuseoFile/Museo";
 
 const App = () => {
@@ -21,9 +24,14 @@ const App = () => {
         <Route path="/Paint" element={<Paint />} />
         <Route path="/Visitors" element={<Visitors />} />
         <Route path="/Museo" element={<Museo />} />
+
         <Route path="/FrancaisHome" element={<FrancaisHome />} />
         <Route path="/EnglishHome" element={<EnglishHome />} />
         <Route path="/ItalianoHome" element={<ItalianoHome />} />
+
+        <Route path="/ItalianoVisitors" element={<ItalianoVisitors />} />
+        <Route path="/EnglishVisitors" element={<EnglishVisitors />} />
+        <Route path="/FrancaisVisitors" element={<FrancaisVisitors />} />
       </Routes>
       <Footer />
     </Router>

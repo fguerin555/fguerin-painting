@@ -2,7 +2,27 @@
   width: 100%;
   margin: 0 auto;
 }
-
+.LangageChoice {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.FrancaisVisitors button {
+  background: black;
+  color: white;
+  border-radius: 5px;
+}
+.EnglishVisitors button {
+  background: black;
+  color: white;
+  border-radius: 5px;
+}
+.ItalianoVisitors button {
+  background: black;
+  color: white;
+  border-radius: 5px;
+}
 .VisitorsPage p {
   color: black;
   font-family: "Montserrat-Thin", Arial, sans-serif;

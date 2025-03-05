@@ -1,0 +1,82 @@
+.ItalianoVisitorsPage {
+  .LangageChoice {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .FrancaisVisitors button {
+    background: black;
+    color: white;
+    border-radius: 5px;
+  }
+  .EnglishVisitors button {
+    background: black;
+    color: white;
+    border-radius: 5px;
+  }
+  .ItalianoVisitors button {
+    background: black;
+    color: white;
+    border-radius: 5px;
+  }
+
+  .Text {
+    font-family: "Montserrat-Thin", Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 60%;
+    margin: 0 auto;
+  }
+  .MailLink a {
+    font-size: 18px;
+    color: black;
+    font-family: "Montserrat-ThinItalic", Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+  }
+  .MailLink a:hover {
+    color: rgb(84, 14, 226);
+  }
+
+  .FooterEmail {
+    color: black;
+    font-size: 20px;
+  }
+  .WorksButton button {
+    background: rgb(182, 246, 115);
+    color: rgb(190, 38, 240);
+    border-radius: 5px;
+    border: solid 2px orange;
+    font-size: 16px;
+  }
+
+  @media (max-width: 1224px) {
+    .Text {
+      max-width: 100%;
+      margin-left: 8px !important;
+      flex-direction: column;
+    }
+    .MailLink a {
+      font-size: 18px !important;
+    }
+  }
+
+  @media (max-width: 508px) {
+    .ItalianoVisitorsPage p {
+      font-size: 16px !important;
+      max-width: 100%;
+      margin-left: 5px !important;
+      flex-direction: column;
+    }
+    .MailLink a {
+      font-size: 16px;
+    }
+  }
+}
