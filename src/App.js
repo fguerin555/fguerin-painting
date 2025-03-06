@@ -12,6 +12,10 @@ import Visitors from "./pages/VisitorsFile/Visitors";
 import EnglishVisitors from "./pages/VisitorsFile/EnglishVisitors";
 import FrancaisVisitors from "./pages/VisitorsFile/FrancaisVisitors";
 import ItalianoVisitors from "./pages/VisitorsFile/ItalianoVisitors";
+import ItalianoMuseo from "./pages/MuseoFile/ItalianoMuseo";
+import EnglishMuseo from "./pages/MuseoFile/EnglishMuseo";
+import FrancaisMuseo from "./pages/MuseoFile/FrancaisMuseo";
+
 import Museo from "./pages/MuseoFile/Museo";
 
 const App = () => {
@@ -32,6 +36,10 @@ const App = () => {
         <Route path="/ItalianoVisitors" element={<ItalianoVisitors />} />
         <Route path="/EnglishVisitors" element={<EnglishVisitors />} />
         <Route path="/FrancaisVisitors" element={<FrancaisVisitors />} />
+
+        <Route path="/ItalianoMuseo" element={<ItalianoMuseo />} />
+        <Route path="/EnglishMuseo" element={<EnglishMuseo />} />
+        <Route path="/FrancaisMuseo" element={<FrancaisMuseo />} />
       </Routes>
       <Footer />
     </Router>

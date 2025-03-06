@@ -1,24 +1,18 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import "../../Global.css";
-import styles from "./Museo.module.css";
+import { Link } from "react-router-dom";
+import styles from "./FrancaisMuseo.module.css";
 import ScrollToTop from "../../components/ScrollToTop";
 import BackButton from "../../components/BackButton";
-import BeforeFooter from "../../components/BeforeFooter";
 
-const Museo = () => {
+const FrancaisMuseo = () => {
   return (
     <div>
-      <div className={styles.MuseoPage}>
+      <div className={styles.FrancaisMuseoPage}>
         <div className={styles.LangageChoice}>
           <div className={styles.EnglishMuseo}>
             <Link to="/EnglishMuseo">
               <button>English</button>
-            </Link>
-          </div>
-          <div className={styles.ItalianoMuseo}>
-            <Link to="/ItalianoMuseo">
-              <button>Italiano</button>
             </Link>
           </div>
           <div className={styles.FrancaisMuseo}>
@@ -26,11 +20,16 @@ const Museo = () => {
               <button>Français</button>
             </Link>
           </div>
+          <div className={styles.ItalianoMuseo}>
+            <Link to="/ItalianoMuseo">
+              <button>Italiano</button>
+            </Link>
+          </div>
         </div>
         <div className={styles.Text}>
           <div>
             {" "}
-            <p>Museo Infinito</p>{" "}
+            <p>Collection Museo Infinito</p>{" "}
           </div>
 
           <div className={styles.MailLink}>
@@ -54,42 +53,12 @@ const Museo = () => {
             </p>
             <p> Frédéric Guérin</p>
           </div>
-          {/* <div className={styles.WorksButton}>
+          <div className={styles.WorksButton}>
             <Link to="/Museo">
-              <button>Opere</button>
+              <button>Oeuvres</button>
             </Link>
-          </div> */}
-
-          <p>2012 Video "MUSEO INFINITO ONE".</p>
-          <div className={styles.MusinfOne}>
-            <iframe
-              width="560"
-              height="315"
-              src="https://youtube.com/embed/9_Jr4r_rG5w?si=RKMlrIqicQPMxfN-"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerpolicy="strict-origin-when-cross-origin"
-              allowfullscreen
-              alt="Video Museo infinito Uno"
-            ></iframe>
-          </div>
-          <p>2012 Video "MUSEO INFINITO TWO".</p>
-          <div className={styles.MusinfTwo}>
-            <iframe
-              width="560"
-              height="315"
-              src="https://youtube.com/embed/siOe6He9bME?si=jErQf_iXbhNNIFj-"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerpolicy="strict-origin-when-cross-origin"
-              allowfullscreen
-              alt="Video Museo infinito Due"
-            ></iframe>
           </div>
         </div>
-        <BeforeFooter />
         <ScrollToTop />
         <BackButton />
       </div>
@@ -97,4 +66,4 @@ const Museo = () => {
   );
 };
 
-export default Museo;
+export default FrancaisMuseo;
