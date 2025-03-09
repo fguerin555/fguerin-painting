@@ -24,7 +24,7 @@
   border-radius: 5px;
 }
 .ImageContainer {
-  margin: 0 auto;
+  /* margin: 0 auto; */
   max-width: 1200px;
   width: 100%; /* largeur du conteneur */
   display: flex;
@@ -32,24 +32,56 @@
   align-items: center;
 }
 .ImagesContainer img {
+  position: relative;
+  display: inline-block;
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
   border-radius: 2px;
   max-width: 90%;
   height: auto;
   object-fit: cover;
-  margin-bottom: 20px;
-  margin-top: 10px;
+  margin-bottom: 1px !important;
+  margin-top: 0 !important;
   margin-right: 5%;
   margin-left: 5%;
 }
 
-.ImagesContainer p {
-  color: black;
+.ImagesContainer .Image {
+  position: relative;
+}
+
+.ImagesContainer .Image p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
   font-family: "Montserrat-Thin", Arial, sans-serif;
-  font-size: 1.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+.nom {
+  color: rgb(13, 1, 1);
+  font-size: 40px;
+  font-family: "Montserrat-Thin", Arial, sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 0 !important;
   margin-top: 20px;
-  margin-bottom: 2px;
+}
+@media (max-width: 1224px) {
+  .ImagesContainer .Image p {
+    font-size: 30px;
+  }
+  .nom {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 508px) {
+  .ImagesContainer .Image p {
+    font-size: 20px;
+  }
+  .nom {
+    font-size: 20px;
+  }
 }
