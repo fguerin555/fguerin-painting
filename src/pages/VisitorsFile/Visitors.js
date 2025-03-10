@@ -38,6 +38,28 @@ import imag28 from "../../assets/Visitors-img/visitor 28.jpg";
 import imag29 from "../../assets/Visitors-img/visitor 29.jpg";
 
 import imag30 from "../../assets/Visitors-img/visitor 30.jpg";
+import imag31 from "../../assets/Visitors-img/visitor 31.jpg";
+import imag32 from "../../assets/Visitors-img/visitor 32.jpg";
+import imag33 from "../../assets/Visitors-img/visitor 33.jpg";
+import imag34 from "../../assets/Visitors-img/visitor 34.jpg";
+import imag35 from "../../assets/Visitors-img/visitor 35.jpg";
+import imag36 from "../../assets/Visitors-img/visitor 36.jpg";
+import imag37 from "../../assets/Visitors-img/visitor 37.jpg";
+import imag38 from "../../assets/Visitors-img/visitor 38.jpg";
+import imag39 from "../../assets/Visitors-img/visitor 39.jpg";
+
+import imag40 from "../../assets/Visitors-img/visitor 40.jpg";
+import imag41 from "../../assets/Visitors-img/visitor 41.jpg";
+import imag42 from "../../assets/Visitors-img/visitor 42.jpg";
+import imag43 from "../../assets/Visitors-img/visitor 43.jpg";
+import imag44 from "../../assets/Visitors-img/visitor 44.jpg";
+import imag45 from "../../assets/Visitors-img/visitor 45.jpg";
+import imag46 from "../../assets/Visitors-img/visitor 46.jpg";
+import imag47 from "../../assets/Visitors-img/visitor 47.jpg";
+import imag48 from "../../assets/Visitors-img/visitor 48.jpg";
+import imag49 from "../../assets/Visitors-img/visitor 49.jpg";
+
+import imag50 from "../../assets/Visitors-img/visitor 50.jpg";
 
 const Visitors = () => {
   return (
@@ -312,6 +334,168 @@ const Visitors = () => {
         </div>
         <div className={styles.Image}>
           <img src={imag30} alt="Visitors numero 30" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°31 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag31} alt="Visitors numero 31" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°32 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag32} alt="Visitors numero 32" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°33 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag33} alt="Visitors numero 33" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°34 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag34} alt="Visitors numero 34" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°35 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag35} alt="Visitors numero 35" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°36 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag36} alt="Visitors numero 36" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°37 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag37} alt="Visitors numero 37" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°38 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag38} alt="Visitors numero 38" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°39 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag39} alt="Visitors numero 39" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°40 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag40} alt="Visitors numero 40" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°41 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag41} alt="Visitors numero 41" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°42 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag42} alt="Visitors numero 42" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°43 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag43} alt="Visitors numero 43" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°44 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag44} alt="Visitors numero 44" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°45 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag45} alt="Visitors numero 45" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°46 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag46} alt="Visitors numero 46" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°47 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag47} alt="Visitors numero 47" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°48 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag48} alt="Visitors numero 48" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°49 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag49} alt="Visitors numero 49" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Visitor n°50 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag50} alt="Visitors numero 50" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
       </div>
