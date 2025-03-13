@@ -38,18 +38,13 @@ const FrancaisMuseo = () => {
 
           <div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-              minus nam est natus atque assumenda aspernatur tenetur mollitia
-              recusandae incidunt aperiam similique cupiditate, ex tempora
-              quibusdam ducimus rem corporis illum libero sit molestiae? Illo,
-              voluptate officia facere praesentium rem voluptatum quibusdam odit
-              vel nihil sequi ipsa sunt a at ab saepe dolorem et accusantium ea
-              ipsam libero consequuntur voluptatem. Corporis ea minima
-              consectetur corrupti! Molestiae saepe doloremque odio voluptatem
-              atque voluptatum, dicta, itaque odit ea quaerat dolore iure sequi
-              fugit unde error animi, rerum explicabo ex vitae expedita sed.
-              Nostrum, libero. Odio ea exercitationem vero voluptatibus iusto.
-              Atque, possimus modi!
+              Soyez un collectionneur d’art et suivez l’évolution du "MUSEO
+              INFINITO" Art contemporain accessible... Peintures à l’huile sur
+              toile carton (15x9 cm - 5,91x3,19 pouces), toutes signées et
+              numérotées, 20 euros l'exemplaire. Suivant le concept des musées
+              qui accueillent différents langages artistiques, un nouvel art
+              freestyle est né, qui raconte la relation entre l’œuvre et le
+              public
             </p>
             <p> Frédéric Guérin</p>
           </div>

@@ -38,18 +38,13 @@ const EnglishMuseo = () => {
 
           <div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-              minus nam est natus atque assumenda aspernatur tenetur mollitia
-              recusandae incidunt aperiam similique cupiditate, ex tempora
-              quibusdam ducimus rem corporis illum libero sit molestiae? Illo,
-              voluptate officia facere praesentium rem voluptatum quibusdam odit
-              vel nihil sequi ipsa sunt a at ab saepe dolorem et accusantium ea
-              ipsam libero consequuntur voluptatem. Corporis ea minima
-              consectetur corrupti! Molestiae saepe doloremque odio voluptatem
-              atque voluptatum, dicta, itaque odit ea quaerat dolore iure sequi
-              fugit unde error animi, rerum explicabo ex vitae expedita sed.
-              Nostrum, libero. Odio ea exercitationem vero voluptatibus iusto.
-              Atque, possimus modi!
+              Be an art collector and follow the evolution of the "MUSEO
+              INFINITO" The affordable contemporary art….. Small-size oil
+              paintings on cardboard canvas (15x9 cm - 5,91x3,19 inches), all
+              signed and numbered, at 20 Euro each. Following the concept of
+              museums housing different artistic languages, a new freestyle art
+              is born, that tells the relationship between the artwork and the
+              public
             </p>
             <p> Frédéric Guérin</p>
           </div>

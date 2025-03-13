@@ -38,18 +38,13 @@ const ItalianoMuseo = () => {
 
           <div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-              minus nam est natus atque assumenda aspernatur tenetur mollitia
-              recusandae incidunt aperiam similique cupiditate, ex tempora
-              quibusdam ducimus rem corporis illum libero sit molestiae? Illo,
-              voluptate officia facere praesentium rem voluptatum quibusdam odit
-              vel nihil sequi ipsa sunt a at ab saepe dolorem et accusantium ea
-              ipsam libero consequuntur voluptatem. Corporis ea minima
-              consectetur corrupti! Molestiae saepe doloremque odio voluptatem
-              atque voluptatum, dicta, itaque odit ea quaerat dolore iure sequi
-              fugit unde error animi, rerum explicabo ex vitae expedita sed.
-              Nostrum, libero. Odio ea exercitationem vero voluptatibus iusto.
-              Atque, possimus modi!
+              Essere un collezionista d'arte e seguire l'evoluzione del "MUSEO
+              INFINITO" L'arte contemporanea accessibile..... Pitture ad olio su
+              tela di cartone (15x9 cm - 5,91x3,19 pollici), tutte firmate e
+              numerate, a 20 euro l'una. Seguendo il concetto di musei che
+              ospitano diversi linguaggi artistici, nasce una nuova arte
+              freestyle, che racconta la relazione tra l'opera d'arte e il
+              pubblico
             </p>
             <p> Frédéric Guérin</p>
           </div>

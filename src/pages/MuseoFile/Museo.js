@@ -4,7 +4,6 @@ import "../../Global.css";
 import styles from "./Museo.module.css";
 import ScrollToTop from "../../components/ScrollToTop";
 import BackButton from "../../components/BackButton";
-import BeforeFooter from "../../components/BeforeFooter";
 
 const Museo = () => {
   return (
@@ -36,31 +35,9 @@ const Museo = () => {
           <div className={styles.MailLink}>
             <a href="mailto:fguerin555@gmail.com">fguerin555@gmail.com</a>
           </div>
-
-          <div>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-              minus nam est natus atque assumenda aspernatur tenetur mollitia
-              recusandae incidunt aperiam similique cupiditate, ex tempora
-              quibusdam ducimus rem corporis illum libero sit molestiae? Illo,
-              voluptate officia facere praesentium rem voluptatum quibusdam odit
-              vel nihil sequi ipsa sunt a at ab saepe dolorem et accusantium ea
-              ipsam libero consequuntur voluptatem. Corporis ea minima
-              consectetur corrupti! Molestiae saepe doloremque odio voluptatem
-              atque voluptatum, dicta, itaque odit ea quaerat dolore iure sequi
-              fugit unde error animi, rerum explicabo ex vitae expedita sed.
-              Nostrum, libero. Odio ea exercitationem vero voluptatibus iusto.
-              Atque, possimus modi!
-            </p>
-            <p> Frédéric Guérin</p>
+          <div className={styles.NameVideo}>
+            <p>2012 Video "MUSEO INFINITO ONE".</p>
           </div>
-          {/* <div className={styles.WorksButton}>
-            <Link to="/Museo">
-              <button>Opere</button>
-            </Link>
-          </div> */}
-
-          <p>2012 Video "MUSEO INFINITO ONE".</p>
           <div className={styles.MusinfOne}>
             <iframe
               width="560"
@@ -74,7 +51,9 @@ const Museo = () => {
               alt="Video Museo infinito Uno"
             ></iframe>
           </div>
-          <p>2012 Video "MUSEO INFINITO TWO".</p>
+          <div className={styles.NameVideo}>
+            <p>2012 Video "MUSEO INFINITO TWO".</p>
+          </div>
           <div className={styles.MusinfTwo}>
             <iframe
               width="560"
@@ -89,7 +68,7 @@ const Museo = () => {
             ></iframe>
           </div>
         </div>
-        <BeforeFooter />
+
         <ScrollToTop />
         <BackButton />
       </div>
