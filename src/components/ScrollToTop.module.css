@@ -27,6 +27,7 @@
     right: 2px;
     width: 30px !important;
     height: 30px !important;
+    font-size: 12px !important;
     z-index: 1000;
     margin-top: 20px;
     background-color: rgba(10, 49, 84, 0.574);
@@ -35,7 +36,6 @@
     border-radius: 5px;
     padding: 4px 5px;
     height: 30px;
-    font-size: 12px;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
     border: none;
     text-shadow: 2px 2px 4px #15459e;
