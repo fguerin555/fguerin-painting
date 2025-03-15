@@ -40,30 +40,23 @@
 .MailLink a:hover {
   color: rgb(84, 14, 226);
 }
+.WorksButton {
+  text-align: center;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+.WorksButton button {
+  background: rgb(182, 246, 115);
+  color: rgb(190, 38, 240);
+  border-radius: 5px;
+  border: solid 2px orange;
+  font-size: 25px;
+  margin-top: 10px;
+}
 
-.MusinfOne {
-  max-width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 20px auto;
-}
-.MusinfOne iframe {
-  border-radius: 10px;
-  border: 5px solid black;
-  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
-}
-.MusinfTwo {
-  max-width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 20px auto;
-}
-.MusinfTwo iframe {
-  border-radius: 10px;
-  border: 5px solid black;
-  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+.WorksButton a {
+  text-decoration: none;
 }
 
 .FooterEmail {
@@ -80,6 +73,10 @@
   .MailLink a {
     font-size: 18px !important;
   }
+
+  .WorksButton button {
+    font-size: 20px;
+  }
 }
 
 @media (max-width: 508px) {
@@ -91,5 +88,9 @@
   }
   .MailLink a {
     font-size: 16px;
+  }
+
+  .WorksButton button {
+    font-size: 15px;
   }
 }
