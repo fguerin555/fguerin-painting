@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fguerin-painting/static/css/main.fa6d92f5.css",
-    "main.js": "/fguerin-painting/static/js/main.c9a13017.js",
+    "main.js": "/fguerin-painting/static/js/main.53321fbc.js",
     "static/media/visitor 56.jpg": "/fguerin-painting/static/media/visitor 56.d948c6d6371a564dff3d.jpg",
     "static/media/visitor 109.jpg": "/fguerin-painting/static/media/visitor 109.405b66aef1a3e7f99189.jpg",
     "static/media/visitor 87.jpg": "/fguerin-painting/static/media/visitor 87.f65423f42fbcad9f22b5.jpg",
@@ -108,12 +108,29 @@
     "static/media/visitor 61.jpg": "/fguerin-painting/static/media/visitor 61.bad40953cf142c9e7eab.jpg",
     "static/media/visitor 53.jpg": "/fguerin-painting/static/media/visitor 53.4cc353603077b88ea943.jpg",
     "static/media/visitor 101.jpg": "/fguerin-painting/static/media/visitor 101.5bff5d56a68278de9fad.jpg",
+    "static/media/Vin.jpg": "/fguerin-painting/static/media/Vin.81524499d4a3e56aa35d.jpg",
     "static/media/visitor 25.jpg": "/fguerin-painting/static/media/visitor 25.36978488b6dd704a1552.jpg",
     "static/media/visitor 21.jpg": "/fguerin-painting/static/media/visitor 21.e0beeaabb608a8905df6.jpg",
+    "static/media/Faces.jpg": "/fguerin-painting/static/media/Faces.8a3e7ff312e2d97e696c.jpg",
     "static/media/visitor 77.jpg": "/fguerin-painting/static/media/visitor 77.55727b4eb6fba5ff1f6d.jpg",
+    "static/media/DeiDellaGuerra.jpg": "/fguerin-painting/static/media/DeiDellaGuerra.a8deded53a48f657e3bf.jpg",
     "static/media/visitor 45.jpg": "/fguerin-painting/static/media/visitor 45.b6f27bcb620678ba27b6.jpg",
-    "static/media/UniversalClubBand.jpg": "/fguerin-painting/static/media/UniversalClubBand.087f90e15cd4668782bd.jpg",
+    "static/media/LaBrace.jpg": "/fguerin-painting/static/media/LaBrace.445d682f902cc8f7a0bb.jpg",
+    "static/media/NozzeBarbariche.jpg": "/fguerin-painting/static/media/NozzeBarbariche.c09a00b47c6d6a0effcf.jpg",
+    "static/media/Jaune.jpg": "/fguerin-painting/static/media/Jaune.9c08216f15bfe088aefb.jpg",
+    "static/media/NuoveStagione.jpg": "/fguerin-painting/static/media/NuoveStagione.4a020dbbcb507a2f1f25.jpg",
+    "static/media/LaCenere.jpg": "/fguerin-painting/static/media/LaCenere.5ff6be0fb73456170638.jpg",
+    "static/media/Arca.jpg": "/fguerin-painting/static/media/Arca.06a662d233e5e559ea5a.jpg",
     "static/media/visitor 81.jpg": "/fguerin-painting/static/media/visitor 81.66418aeba445fe2d6dfe.jpg",
+    "static/media/PrimaveraAnnoZero.jpg": "/fguerin-painting/static/media/PrimaveraAnnoZero.88aab6a7d5648ec71c1a.jpg",
+    "static/media/BalladeSanLorenzo.jpg": "/fguerin-painting/static/media/BalladeSanLorenzo.a78c01d00db2d3083a47.jpg",
+    "static/media/LeTempsdesTambours.jpg": "/fguerin-painting/static/media/LeTempsdesTambours.9124e9b98b9f323fc8b4.jpg",
+    "static/media/LaNotteBianca.jpg": "/fguerin-painting/static/media/LaNotteBianca.653c8a6345b1d81257e0.jpg",
+    "static/media/Cargo.jpg": "/fguerin-painting/static/media/Cargo.34a787de1a10f1943655.jpg",
+    "static/media/LaVitadiLoulou.jpg": "/fguerin-painting/static/media/LaVitadiLoulou.62c540888b3aeb064400.jpg",
+    "static/media/UniversalClubBand.jpg": "/fguerin-painting/static/media/UniversalClubBand.f3ae80e8fe62fe67922d.jpg",
+    "static/media/FiumeDelleVanita.jpg": "/fguerin-painting/static/media/FiumeDelleVanita.963258c45ae402d20f0c.jpg",
+    "static/media/IlSilenzio.jpg": "/fguerin-painting/static/media/IlSilenzio.ab4f08b626c33ae3f65f.jpg",
     "static/media/Montserrat-LightItalic.ttf": "/fguerin-painting/static/media/Montserrat-LightItalic.ac3843da62f0afac7929.ttf",
     "static/media/Montserrat-MediumItalic.ttf": "/fguerin-painting/static/media/Montserrat-MediumItalic.67e6dda3939a21720991.ttf",
     "static/media/Montserrat-ExtraLightItalic.ttf": "/fguerin-painting/static/media/Montserrat-ExtraLightItalic.8df5777e3ea85687bdf0.ttf",
@@ -123,14 +140,15 @@
     "static/media/Montserrat-Regular.ttf": "/fguerin-painting/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
     "static/media/Montserrat-ExtraLight.ttf": "/fguerin-painting/static/media/Montserrat-ExtraLight.d928d1131a9af02cb672.ttf",
     "static/media/Montserrat-Thin.ttf": "/fguerin-painting/static/media/Montserrat-Thin.9a7aece9cfe235bc0920.ttf",
+    "static/media/SurleToitduMonde.jpg": "/fguerin-painting/static/media/SurleToitduMonde.fe0ac7402f4b816ff38c.jpg",
     "static/media/source-sans-pro.regular.ttf": "/fguerin-painting/static/media/source-sans-pro.regular.358e8828cd2fc97c7e74.ttf",
     "static/media/JosefinSans-Medium.ttf": "/fguerin-painting/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
     "index.html": "/fguerin-painting/index.html",
     "main.fa6d92f5.css.map": "/fguerin-painting/static/css/main.fa6d92f5.css.map",
-    "main.c9a13017.js.map": "/fguerin-painting/static/js/main.c9a13017.js.map"
+    "main.53321fbc.js.map": "/fguerin-painting/static/js/main.53321fbc.js.map"
   },
   "entrypoints": [
     "static/css/main.fa6d92f5.css",
-    "static/js/main.c9a13017.js"
+    "static/js/main.53321fbc.js"
   ]
 }
