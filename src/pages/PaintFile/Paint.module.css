@@ -6,8 +6,81 @@
 .PaintPage p {
   color: black;
   font-family: "Montserrat-Thin", Arial, sans-serif;
-  font-size: 1.5rem;
+  font-size: 30px;
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 2px;
+}
+.ImagesContainer {
+  margin: 10px auto 0;
+  max-width: 1200px;
+  width: 100%; /* largeur du conteneur */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Section img {
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.Section p {
+  color: rgb(40, 39, 39);
+  font-family: "Montserrat-Medium", Arial, sans-serif;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2px;
+}
+.Mesure p {
+  color: rgb(39, 34, 34);
+  font-family: "Montserrat-LightItalic", Arial, sans-serif;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1px;
+  margin-bottom: 8px;
+}
+@media (max-width: 1224px) {
+  .PaintPage p {
+    font-size: 24px;
+  }
+  .Section p {
+    font-size: 27px;
+  }
+  .Mesure p {
+    font-size: 17px;
+  }
+}
+
+@media (max-width: 508px) {
+  .PaintPage p {
+    font-size: 18px;
+  }
+  .ImagesContainer {
+    max-width: 100%;
+  }
+  .Section p {
+    font-size: 15px;
+  }
+  .Mesure p {
+    font-size: 12px;
+  }
+  .Section img {
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+    width: 94%;
+    margin-left: 3%;
+    margin-right: 3%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
 }
