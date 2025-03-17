@@ -87,6 +87,11 @@
   .MailLink a {
     font-size: 18px !important;
   }
+  .QrCode img {
+    margin-top: 20px;
+    height: 100px;
+    width: auto;
+  }
   .WorksButton button {
     font-size: 20px;
   }
@@ -104,5 +109,8 @@
   }
   .WorksButton button {
     font-size: 15px;
+  }
+  .QrCode img {
+    display: none;
   }
 }

@@ -109,7 +109,7 @@
     font-size: 16px;
   }
   .QrCode img {
-    display: none;
+    display: none !important;
   }
   .WorksButton button {
     font-size: 15px;
