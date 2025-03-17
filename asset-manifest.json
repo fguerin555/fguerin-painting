@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fguerin-painting/static/css/main.6d633cef.css",
-    "main.js": "/fguerin-painting/static/js/main.e6e538ee.js",
+    "main.css": "/fguerin-painting/static/css/main.53211518.css",
+    "main.js": "/fguerin-painting/static/js/main.7c2398c5.js",
     "static/media/visitor 56.jpg": "/fguerin-painting/static/media/visitor 56.d948c6d6371a564dff3d.jpg",
     "static/media/visitor 109.jpg": "/fguerin-painting/static/media/visitor 109.405b66aef1a3e7f99189.jpg",
     "static/media/visitor 87.jpg": "/fguerin-painting/static/media/visitor 87.f65423f42fbcad9f22b5.jpg",
@@ -171,12 +171,13 @@
     "static/media/SurleToitduMonde.jpg": "/fguerin-painting/static/media/SurleToitduMonde.fe0ac7402f4b816ff38c.jpg",
     "static/media/source-sans-pro.regular.ttf": "/fguerin-painting/static/media/source-sans-pro.regular.358e8828cd2fc97c7e74.ttf",
     "static/media/JosefinSans-Medium.ttf": "/fguerin-painting/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "static/media/site-painting.png": "/fguerin-painting/static/media/site-painting.4651f3b7c1972b99beda.png",
     "index.html": "/fguerin-painting/index.html",
-    "main.6d633cef.css.map": "/fguerin-painting/static/css/main.6d633cef.css.map",
-    "main.e6e538ee.js.map": "/fguerin-painting/static/js/main.e6e538ee.js.map"
+    "main.53211518.css.map": "/fguerin-painting/static/css/main.53211518.css.map",
+    "main.7c2398c5.js.map": "/fguerin-painting/static/js/main.7c2398c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d633cef.css",
-    "static/js/main.e6e538ee.js"
+    "static/css/main.53211518.css",
+    "static/js/main.7c2398c5.js"
   ]
 }
