@@ -28,6 +28,19 @@
   align-items: center;
   justify-content: center;
 }
+
+.QrCode {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.QrCode img {
+  margin-top: 20px;
+  height: 150px;
+  width: auto;
+}
+
 .MailLink a {
   font-size: 18px;
   color: black;
@@ -75,6 +88,11 @@
   .MailLink a {
     font-size: 18px !important;
   }
+  .QrCode img {
+    margin-top: 20px;
+    height: 100px;
+    width: auto;
+  }
   .WorksButton button {
     font-size: 20px;
   }
@@ -89,6 +107,9 @@
   }
   .MailLink a {
     font-size: 16px;
+  }
+  .QrCode img {
+    display: none;
   }
   .WorksButton button {
     font-size: 15px;

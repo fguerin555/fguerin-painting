@@ -28,6 +28,18 @@
   align-items: center;
   justify-content: center;
 }
+
+.QrCode {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.QrCode img {
+  margin-top: 20px;
+  height: 150px;
+  width: auto;
+}
 .MailLink a {
   font-size: 18px;
   color: black;

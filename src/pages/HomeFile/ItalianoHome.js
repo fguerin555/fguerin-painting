@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import styles from "./ItalianoHome.module.css";
 import ScrollToTop from "../../components/ScrollToTop";
 import BackButton from "../../components/BackButton";
+import QrCode from "../../assets/QrCode/site-painting.png";
 
 const ItalianoHome = () => {
   return (
@@ -25,6 +26,9 @@ const ItalianoHome = () => {
               <button>Français</button>
             </Link>
           </div>
+        </div>
+        <div className={styles.QrCode}>
+          <img src={QrCode} alt="QR Code" />
         </div>
         <p>Frederic Guerin</p>
         <div className={styles.MailLink}>
