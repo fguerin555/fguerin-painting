@@ -25,6 +25,38 @@ import img216 from "../../assets/Paint-img/115x160/LaNotteBianca.jpg";
 import img217 from "../../assets/Paint-img/115x160/NozzeBarbariche.jpg";
 import img218 from "../../assets/Paint-img/115x160/Cargo.jpg";
 import img219 from "../../assets/Paint-img/115x160/SurleToitduMonde.jpg";
+import img220 from "../../assets/Paint-img/100x100/TheFish.jpg";
+import img221 from "../../assets/Paint-img/100x100/TheRosenstein.jpg";
+import img222 from "../../assets/Paint-img/100x100/Grimoire.jpg";
+import img223 from "../../assets/Paint-img/100x100/Our Lady of the Roses.jpg";
+import img224 from "../../assets/Paint-img/100x100/TheFuturisFragile.jpg";
+import img225 from "../../assets/Paint-img/100x100/TakehisHand.jpg";
+import img226 from "../../assets/Paint-img/100x100/UndertheFertileMoon.jpg";
+import img227 from "../../assets/Paint-img/100x100/RedPoster.jpg";
+
+import img228 from "../../assets/Paint-img/100x100/OrangeZone.jpg";
+import img229 from "../../assets/Paint-img/100x100/DeathofEuropa.jpg";
+import img230 from "../../assets/Paint-img/100x100/JeanOuki.jpg";
+import img231 from "../../assets/Paint-img/100x100/JeanOukiTwo.jpg";
+import img232 from "../../assets/Paint-img/100x100/Roses.jpg";
+
+import img233 from "../../assets/Paint-img/100x100/Iron.jpg";
+import img234 from "../../assets/Paint-img/100x100/Gas.jpg";
+import img235 from "../../assets/Paint-img/100x100/Water.jpg";
+import img236 from "../../assets/Paint-img/100x100/Freeze.jpg";
+
+import img237 from "../../assets/Paint-img/100x100/Poeta.jpg";
+import img238 from "../../assets/Paint-img/100x100/PoetaTwo.jpg";
+import img239 from "../../assets/Paint-img/100x100/Rosa.jpg";
+import img240 from "../../assets/Paint-img/100x100/Opera.jpg";
+import img241 from "../../assets/Paint-img/100x100/Open.jpg";
+import img242 from "../../assets/Paint-img/100x100/Arte.jpg";
+
+import img243 from "../../assets/Paint-img/100x100/FirstDay.jpg";
+import img244 from "../../assets/Paint-img/100x100/Plus.jpg";
+import img245 from "../../assets/Paint-img/100x100/Less.jpg";
+import img246 from "../../assets/Paint-img/100x100/ArteTwo.jpg";
+import img247 from "../../assets/Paint-img/100x100/GardenTwo.jpg";
 
 const Paint = () => {
   return (
@@ -177,11 +209,235 @@ const Paint = () => {
           </div>
 
           <div className={styles.Section}>
-            <p>On top of the World.</p>
+            <p>On top of the World</p>
             <div className={styles.Mesure}>
               <p>Oil on canvas - 160x115 cm - 2007 - for sale</p>
             </div>
             <img src={img219} alt="Oil on canvas: On top of the World" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>The Fish</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 110x100 cm - 2004 - sold</p>
+            </div>
+            <img src={img220} alt="Oil on canvas: The Fish" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>The Rosenstein</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2004 - sold</p>
+            </div>
+            <img src={img221} alt="Oil on canvas: The Rosenstein" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Grimoire</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2004 - sold</p>
+            </div>
+            <img src={img222} alt="Oil on canvas: Grimoire" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Our Lady of the Roses</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2004 - sold</p>
+            </div>
+            <img src={img223} alt="Oil on canvas: Our Lady of the Roses" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>The Futur is Fragile</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2004 - sold</p>
+            </div>
+            <img src={img224} alt="Oil on canvas: The Futur is Fragile" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Take his Hand</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2004 - sold</p>
+            </div>
+            <img src={img225} alt="Oil on canvas: Take his Hand" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Under the Fertile Moon</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2004 - sold</p>
+            </div>
+            <img src={img226} alt="Oil on canvas: Under the Fertile Moon" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Red Poster</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2005 - sold</p>
+            </div>
+            <img src={img227} alt="Oil on canvas: Red Poster" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>OrangeZone</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2005 - sold</p>
+            </div>
+            <img src={img228} alt="Oil on canvas: Orange Zone" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Death of Europa</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2005 - sold</p>
+            </div>
+            <img src={img229} alt="Oil on canvas: Death ot Europa" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Jean Ouki</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2006 - for sale</p>
+            </div>
+            <img src={img230} alt="Oil on canvas: Jean Ouki" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Jean Ouki Two</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2006 - for sale</p>
+            </div>
+            <img src={img231} alt="Oil on canvas: Jean Ouki Two" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Roses</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2006 - for sale</p>
+            </div>
+            <img src={img232} alt="Oil on canvas: Roses" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Iron</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2007 - sold</p>
+            </div>
+            <img src={img233} alt="Oil on canvas: Iron" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Gas</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2007 - sold</p>
+            </div>
+            <img src={img234} alt="Oil on canvas: Gas" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Water</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2007 - sold</p>
+            </div>
+            <img src={img235} alt="Oil on canvas: Water" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Freeze</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2007 - sold</p>
+            </div>
+            <img src={img236} alt="Oil on canvas: Freeze" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Poeta</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2008 - for sale</p>
+            </div>
+            <img src={img237} alt="Oil on canvas: Poeta" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Poeta Two</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2008 - for sale</p>
+            </div>
+            <img src={img238} alt="Oil on canvas: Poeta Two" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Rosa</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2008 - for sale</p>
+            </div>
+            <img src={img239} alt="Oil on canvas: Rosa" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Opera</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2008 - for sale</p>
+            </div>
+            <img src={img240} alt="Oil on canvas: Opera" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Open</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2008 - sold</p>
+            </div>
+            <img src={img241} alt="Oil on canvas: Open" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Arte</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2008 - for sale</p>
+            </div>
+            <img src={img242} alt="Oil on canvas: Arte" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>First Day</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2009 - for sale</p>
+            </div>
+            <img src={img243} alt="Oil on canvas: First Day" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Plus</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2009 - for sale</p>
+            </div>
+            <img src={img244} alt="Oil on canvas: Plus" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Less</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2008 - for sale</p>
+            </div>
+            <img src={img245} alt="Oil on canvas: Less" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Arte Two</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2008 - for sale</p>
+            </div>
+
+            <img src={img246} alt="Oil on canvas: Arte Two" />
+          </div>
+          <div className={styles.Section}>
+            <p>Garden</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2008 - for sale</p>
+            </div>
+            <img src={img247} alt="Oil on canvas: Garden" />
           </div>
         </div>
       </div>

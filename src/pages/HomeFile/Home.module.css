@@ -19,6 +19,17 @@
   background: black;
   color: white;
 }
+.QrCode {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.QrCode img {
+  margin-top: 20px;
+  height: 100px;
+  width: auto;
+}
 
 .HomePage p {
   font-family: "Montserrat-Thin", Arial, sans-serif;
@@ -92,5 +103,11 @@
 
   .WorksButton button {
     font-size: 15px;
+  }
+  .QrCode img {
+    display: none;
+  }
+  .QrCode {
+    display: none;
   }
 }

@@ -53,6 +53,9 @@
   .PaintPage p {
     font-size: 24px;
   }
+  .ImagesContainer {
+    max-width: 100%;
+  }
   .Section p {
     font-size: 27px;
   }

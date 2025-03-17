@@ -26,6 +26,7 @@ const Home = () => {
             </Link>
           </div>
         </div>
+
         <p>Frederic Guerin</p>
         <div className={styles.MailLink}>
           <a href="mailto:fguerin555@gmail.com">fguerin555@gmail.com</a>
