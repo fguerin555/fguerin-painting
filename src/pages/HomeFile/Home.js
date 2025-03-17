@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import styles from "./Home.module.css";
 import ScrollToTop from "../../components/ScrollToTop";
 import BackButton from "../../components/BackButton";
+import QrCode from "../../assets/QrCode/site-painting.png";
 
 const Home = () => {
   return (
@@ -26,7 +27,9 @@ const Home = () => {
             </Link>
           </div>
         </div>
-
+        <div className={styles.QrCode}>
+          <img src={QrCode} alt="QR Code" />
+        </div>
         <p>Frederic Guerin</p>
         <div className={styles.MailLink}>
           <a href="mailto:fguerin555@gmail.com">fguerin555@gmail.com</a>

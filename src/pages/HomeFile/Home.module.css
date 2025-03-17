@@ -27,7 +27,7 @@
 
 .QrCode img {
   margin-top: 20px;
-  height: 100px;
+  height: 150px;
   width: auto;
 }
 
@@ -87,6 +87,11 @@
 
   .WorksButton button {
     font-size: 20px;
+  }
+  .QrCode img {
+    margin-top: 20px;
+    height: 100px;
+    width: auto;
   }
 }
 
