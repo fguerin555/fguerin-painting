@@ -57,6 +57,14 @@ import img244 from "../../assets/Paint-img/100x100/Plus.jpg";
 import img245 from "../../assets/Paint-img/100x100/Less.jpg";
 import img246 from "../../assets/Paint-img/100x100/ArteTwo.jpg";
 import img247 from "../../assets/Paint-img/100x100/GardenTwo.jpg";
+import img254 from "../../assets/Paint-img/100x100/Garden2.jpg";
+
+import img248 from "../../assets/Paint-img/100x70/Landscape01.jpg";
+import img249 from "../../assets/Paint-img/100x70/Landscape02.jpg";
+import img250 from "../../assets/Paint-img/100x70/Landscape03.jpg";
+import img251 from "../../assets/Paint-img/100x70/Landscape04.jpg";
+import img252 from "../../assets/Paint-img/100x70/Landscape05.jpg";
+import img253 from "../../assets/Paint-img/100x70/Landscape06.jpg";
 
 const Paint = () => {
   return (
@@ -419,7 +427,7 @@ const Paint = () => {
           <div className={styles.Section}>
             <p>Less</p>
             <div className={styles.Mesure}>
-              <p>Oil on canvas - 100x100 cm - 2008 - for sale</p>
+              <p>Oil on canvas - 100x100 cm - 2009 - for sale</p>
             </div>
             <img src={img245} alt="Oil on canvas: Less" />
           </div>
@@ -427,17 +435,73 @@ const Paint = () => {
           <div className={styles.Section}>
             <p>Arte Two</p>
             <div className={styles.Mesure}>
-              <p>Oil on canvas - 100x100 cm - 2008 - for sale</p>
+              <p>Oil on canvas - 100x100 cm - 2009 - for sale</p>
             </div>
-
             <img src={img246} alt="Oil on canvas: Arte Two" />
           </div>
+
           <div className={styles.Section}>
             <p>Garden</p>
             <div className={styles.Mesure}>
-              <p>Oil on canvas - 100x100 cm - 2008 - for sale</p>
+              <p>Oil on canvas - 100x100 cm - 2009 - for sale</p>
             </div>
             <img src={img247} alt="Oil on canvas: Garden" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Garden Two</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x100 cm - 2009 - for sale</p>
+            </div>
+            <img src={img254} alt="Oil on canvas: Garden Two" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Landscape One</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x70 cm - 2012 - for sale</p>
+            </div>
+            <img src={img248} alt="Oil on canvas: Landscape One" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Landscape Two</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x70 cm - 2012 - for sale</p>
+            </div>
+            <img src={img249} alt="Oil on canvas: Landscape Two" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Landscape Three</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x70 cm - 2012 - sold</p>
+            </div>
+            <img src={img250} alt="Oil on canvas: Landscape Three" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Landscape Four</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x70 cm - 2012 - sold</p>
+            </div>
+            <img src={img251} alt="Oil on canvas: Landscape Four" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Landscape Five</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x70 cm - 2012 - for sale</p>
+            </div>
+            <img src={img252} alt="Oil on canvas: Landscape Five" />
+          </div>
+
+          <div className={styles.Section}>
+            <p>Landscape Six</p>
+            <div className={styles.Mesure}>
+              <p>Oil on canvas - 100x70 cm - 2012 - sold</p>
+            </div>
+            <img src={img253} alt="Oil on canvas: Landscape Six" />
           </div>
         </div>
       </div>
