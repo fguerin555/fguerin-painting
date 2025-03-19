@@ -67,9 +67,45 @@
   font-size: 25px;
   margin-top: 10px;
 }
-
+.WorksButton button:hover {
+  cursor: pointer;
+  color: rgb(182, 246, 115);
+  background: rgb(190, 38, 240);
+}
 .WorksButton a {
   text-decoration: none;
+}
+.MusinfOne {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+}
+.NameVideo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+}
+
+.MusinfOne iframe {
+  border-radius: 10px;
+  border: 5px solid #8df6b4;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+}
+.MusinfTwo {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+}
+
+.MusinfTwo iframe {
+  border-radius: 10px;
+  border: 5px solid #8df6b4;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
 }
 .FooterEmail {
   color: black;

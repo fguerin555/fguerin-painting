@@ -57,6 +57,11 @@
     border: solid 2px orange;
     font-size: 16px;
   }
+  .WorksButton button:hover {
+    cursor: pointer;
+    color: rgb(182, 246, 115);
+    background: rgb(190, 38, 240);
+  }
 
   @media (max-width: 1224px) {
     .Text {

@@ -53,6 +53,38 @@ const ItalianoMuseo = () => {
               <button>Opere</button>
             </Link>
           </div>
+          <div className={styles.NameVideo}>
+            <p>2012 Video "MUSEO INFINITO ONE".</p>
+          </div>
+          <div className={styles.MusinfOne}>
+            <iframe
+              width="560"
+              height="315"
+              src="https://youtube.com/embed/9_Jr4r_rG5w?si=RKMlrIqicQPMxfN-"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allowfullscreen
+              alt="Video Museo infinito Uno"
+            ></iframe>
+          </div>
+          <div className={styles.NameVideo}>
+            <p>2012 Video "MUSEO INFINITO TWO".</p>
+          </div>
+          <div className={styles.MusinfTwo}>
+            <iframe
+              width="560"
+              height="315"
+              src="https://youtube.com/embed/siOe6He9bME?si=jErQf_iXbhNNIFj-"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allowfullscreen
+              alt="Video Museo infinito Due"
+            ></iframe>
+          </div>
         </div>
         <ScrollToTop />
         <BackButton />

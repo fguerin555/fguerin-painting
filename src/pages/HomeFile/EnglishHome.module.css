@@ -1,3 +1,12 @@
+.EnglishHomePage p {
+  font-family: "Montserrat-Thin", Arial, sans-serif;
+  font-size: 20px;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .LangageChoice {
   margin-top: 10px;
   display: flex;
@@ -20,15 +29,6 @@
   border-radius: 5px;
 }
 
-.EnglishHomePage p {
-  font-family: "Montserrat-Thin", Arial, sans-serif;
-  font-size: 20px;
-  color: black;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .QrCode {
   display: flex;
   justify-content: center;
@@ -39,6 +39,17 @@
   margin-top: 20px;
   height: 150px;
   width: auto;
+}
+.Text {
+  font-family: "Montserrat-Thin", Arial, sans-serif;
+  font-size: 20px;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 60%;
+  margin: 0 auto;
 }
 .MailLink a {
   font-size: 18px;
@@ -68,9 +79,43 @@
   font-size: 25px;
   margin-top: 10px;
 }
+.WorksButton button:hover {
+  cursor: pointer;
+  color: rgb(182, 246, 115);
+  background: rgb(190, 38, 240);
+}
 
-.WorksButton a {
-  text-decoration: none;
+.MusinfOne {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+}
+.NameVideo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+}
+
+.MusinfOne iframe {
+  border-radius: 10px !important;
+  border: 5px solid #8df6b4 !important;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3) !important;
+}
+.MusinfTwo {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+}
+
+.MusinfTwo iframe {
+  border-radius: 10px !important;
+  border: 5px solid #8df6b4 !important;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3) !important;
 }
 
 .FooterEmail {

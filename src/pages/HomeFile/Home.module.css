@@ -6,19 +6,34 @@
 }
 .FrancaisHome button {
   border-radius: 5px;
-  background: black;
+  background-color: rgba(10, 49, 84, 0.574);
   color: white;
 }
+
+.FrancaisHome button:hover {
+  color: #94e2ec;
+  cursor: pointer;
+}
+
 .EnglishHome button {
   border-radius: 5px;
-  background: black;
+  background-color: rgba(10, 49, 84, 0.574);
   color: white;
+}
+.EnglishHome button:hover {
+  color: #94e2ec;
+  cursor: pointer;
 }
 .ItalianoHome button {
   border-radius: 5px;
-  background: black;
+  background-color: rgba(10, 49, 84, 0.574);
   color: white;
 }
+.ItalianoHome button:hover {
+  color: #94e2ec;
+  cursor: pointer;
+}
+
 .QrCode {
   display: flex;
   justify-content: center;
@@ -49,7 +64,7 @@
   text-decoration: none;
 }
 .MailLink a:hover {
-  color: rgb(84, 14, 226);
+  color: rgb(182, 246, 115);
 }
 .WorksButton {
   text-align: center;
@@ -63,7 +78,14 @@
   border-radius: 5px;
   border: solid 2px orange;
   font-size: 25px;
-  margin-top: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.WorksButton button:hover {
+  cursor: pointer;
+  color: rgb(182, 246, 115);
+  background: rgb(190, 38, 240);
 }
 
 .WorksButton a {

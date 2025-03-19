@@ -69,6 +69,11 @@
   font-size: 25px;
   margin-top: 10px;
 }
+.WorksButton button:hover {
+  cursor: pointer;
+  color: rgb(182, 246, 115);
+  background: rgb(190, 38, 240);
+}
 
 .WorksButton a {
   text-decoration: none;
