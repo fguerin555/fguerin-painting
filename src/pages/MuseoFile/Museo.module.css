@@ -40,7 +40,7 @@
     cursor: pointer;
   }
 
-  .Text {
+  .Titre {
     font-family: "Montserrat-Thin", Arial, sans-serif;
     font-size: 40px;
     color: black;
@@ -77,9 +77,67 @@
     font-size: 16px;
   }
 
+  .ImgContainer {
+    margin-bottom: 10px;
+    max-width: 1200px;
+    width: 100%; /* largeur du conteneur */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  /* .Section {
+    width: 80%;
+    margin-right: auto;
+    margin-left: 20%;
+  } */
+  .Section img {
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 0;
+  }
+
+  .Section p {
+    font-size: 20px;
+    font-family: "Montserrat-Regular", Arial, sans-serif;
+    color: black;
+    margin-bottom: 1px;
+  }
+
+  .Mesure p {
+    font-size: 20px;
+    font-family: "Montserrat-MediumItalic", Arial, sans-serif;
+    color: black;
+    margin-top: 1px;
+  }
+
   @media (max-width: 1224px) {
+    .Titre {
+      font-size: 30px;
+    }
+    .Section {
+      margin-left: 5%;
+      margin-right: 5%;
+    }
+    .Section p {
+      font-size: 16px;
+    }
   }
 
   @media (max-width: 508px) {
+    .Titre {
+      font-size: 20px;
+    }
+    .Section {
+      margin-left: 3px;
+      margin-right: 3px;
+    }
+    .Section p {
+      font-size: 12px;
+    }
   }
 }
