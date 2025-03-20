@@ -14,19 +14,37 @@
   justify-content: space-around;
 }
 .FrancaisHome button {
-  background: black;
-  color: white;
+  background-color: rgba(10, 49, 84, 0.574);
+  color: antiquewhite;
   border-radius: 5px;
+  font-size: 16px;
+  border: solid 2px #94e2ec;
+}
+.FrancaisHome button:hover {
+  color: #94e2ec;
+  cursor: pointer;
 }
 .EnglishHome button {
-  background: black;
-  color: white;
+  background-color: rgba(10, 49, 84, 0.574);
+  color: antiquewhite;
   border-radius: 5px;
+  font-size: 16px;
+  border: solid 2px #94e2ec;
+}
+.EnglishHome button:hover {
+  color: #94e2ec;
+  cursor: pointer;
 }
 .ItalianoHome button {
-  background: black;
-  color: white;
+  background-color: rgba(10, 49, 84, 0.574);
+  color: antiquewhite;
   border-radius: 5px;
+  font-size: 16px;
+  border: solid 2px #94e2ec;
+}
+.ItalianoHome button:hover {
+  color: #94e2ec;
+  cursor: pointer;
 }
 
 .QrCode {

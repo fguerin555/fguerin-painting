@@ -7,7 +7,9 @@
 .FrancaisHome button {
   border-radius: 5px;
   background-color: rgba(10, 49, 84, 0.574);
-  color: white;
+  color: antiquewhite;
+  font-size: 16px;
+  border: solid 2px #94e2ec;
 }
 
 .FrancaisHome button:hover {
@@ -18,7 +20,9 @@
 .EnglishHome button {
   border-radius: 5px;
   background-color: rgba(10, 49, 84, 0.574);
-  color: white;
+  color: antiquewhite;
+  font-size: 16px;
+  border: solid 2px #94e2ec;
 }
 .EnglishHome button:hover {
   color: #94e2ec;
@@ -27,7 +31,9 @@
 .ItalianoHome button {
   border-radius: 5px;
   background-color: rgba(10, 49, 84, 0.574);
-  color: white;
+  color: antiquewhite;
+  font-size: 16px;
+  border: solid 2px #94e2ec;
 }
 .ItalianoHome button:hover {
   color: #94e2ec;

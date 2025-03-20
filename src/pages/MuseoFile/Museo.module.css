@@ -7,19 +7,37 @@
   }
 
   .FrancaisMuseo button {
-    background: black;
-    color: white;
+    color: antiquewhite;
+    background-color: rgba(10, 49, 84, 0.574);
     border-radius: 5px;
+    font-size: 16px;
+    border: solid 2px #94e2ec;
+  }
+  .FrancaisMuseo button:hover {
+    color: #94e2ec;
+    cursor: pointer;
   }
   .EnglishMuseo button {
-    background: black;
-    color: white;
+    color: antiquewhite;
+    background-color: rgba(10, 49, 84, 0.574);
     border-radius: 5px;
+    font-size: 16px;
+    border: solid 2px #94e2ec;
+  }
+  .EnglishVMuseo button:hover {
+    color: #94e2ec;
+    cursor: pointer;
   }
   .ItalianoMuseo button {
-    background: black;
-    color: white;
+    color: antiquewhite;
+    background-color: rgba(10, 49, 84, 0.574);
     border-radius: 5px;
+    font-size: 16px;
+    border: solid 2px #94e2ec;
+  }
+  .ItalianoMuseo button:hover {
+    color: #94e2ec;
+    cursor: pointer;
   }
 
   .Text {

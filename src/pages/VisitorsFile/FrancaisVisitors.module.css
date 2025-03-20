@@ -6,21 +6,38 @@
     justify-content: space-around;
   }
   .FrancaisVisitors button {
-    background: black;
-    color: white;
+    color: antiquewhite;
+    background-color: rgba(10, 49, 84, 0.574);
     border-radius: 5px;
+    font-size: 16px;
+    border: solid 2px #94e2ec;
+  }
+  .FrancaisVisitors button:hover {
+    color: #94e2ec;
+    cursor: pointer;
   }
   .EnglishVisitors button {
-    background: black;
-    color: white;
+    color: antiquewhite;
+    background-color: rgba(10, 49, 84, 0.574);
     border-radius: 5px;
+    font-size: 16px;
+    border: solid 2px #94e2ec;
+  }
+  .EnglishVisitors button:hover {
+    color: #94e2ec;
+    cursor: pointer;
   }
   .ItalianoVisitors button {
-    background: black;
-    color: white;
+    color: antiquewhite;
+    background-color: rgba(10, 49, 84, 0.574);
     border-radius: 5px;
+    font-size: 16px;
+    border: solid 2px #94e2ec;
   }
-
+  .ItalianoVisitors button:hover {
+    color: #94e2ec;
+    cursor: pointer;
+  }
   .Text {
     font-family: "Montserrat-Thin", Arial, sans-serif;
     font-size: 20px;
