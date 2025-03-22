@@ -1,4 +1,4 @@
-.MuseoPage {
+.MuseoHorizPage {
   .LangageChoice {
     margin-top: 10px;
     display: flex;
@@ -40,16 +40,19 @@
     cursor: pointer;
   }
 
-  .Titre {
+  .Titre p {
     font-family: "Montserrat-Thin", Arial, sans-serif;
     font-size: 40px;
     color: black;
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+    /* flex-direction: column; */
     max-width: 60%;
-    margin: 0 auto;
+    margin-bottom: 5px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
   }
   .MailLink a {
     font-size: 18px;
@@ -59,6 +62,8 @@
     justify-content: center;
     align-items: center;
     text-decoration: none;
+    margin-bottom: 40px;
+    margin-top: 20px;
   }
   .MailLink a:hover {
     color: rgb(84, 14, 226);
@@ -68,67 +73,97 @@
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 24px;
     color: black;
     font-family: "Montserrat-ThinItalic", Arial, sans-serif;
+    margin-bottom: 10px;
   }
   .FooterEmail {
     color: black;
     font-size: 20px;
   }
 
-  .WorksButton button {
-    background: rgb(182, 246, 115);
-    color: rgb(190, 38, 240);
-    border-radius: 5px;
-    border: solid 2px orange;
-    font-size: 16px;
-  }
-
   .ImgContainer {
     margin-bottom: 10px;
-    max-width: 1200px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
-    margin-right: auto;
-    margin-left: auto;
+    flex-wrap: wrap;
+  }
+
+  .Section img {
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+    object-fit: cover;
+    margin-bottom: 0;
+    height: 290px;
+    width: 465px;
+    margin-right: 20px;
   }
 
   .Section p {
     font-size: 20px;
-    font-family: "Montserrat-Regular", Arial, sans-serif;
+    font-family: "Montserrat-MediumItalic", Arial, sans-serif;
     color: black;
     margin-bottom: 1px;
   }
 
-  .Mesure p {
-    font-size: 20px;
-    font-family: "Montserrat-MediumItalic", Arial, sans-serif;
+  .Prize p {
+    font-family: "Montserrat-LightItalic", Arial, sans-serif;
     color: black;
     margin-top: 1px;
   }
 
   @media (max-width: 1224px) {
-    .Titre {
+    .Titre p {
       font-size: 30px;
     }
-
+    .SubTitle p {
+      font-size: 18px;
+      font-family: "Montserrat-ThinItalic", Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-width: 100%;
+    }
     .Section p {
-      font-size: 16px;
+      font-size: 18px;
+    }
+    .Prize p {
+      font-size: 18px;
     }
   }
 
-  @media (max-width: 531px) {
-    .Titre {
-      font-size: 20px;
+  @media (max-width: 509px) {
+    .Titre p {
+      font-size: 18px;
     }
-
+    .SubTitle p {
+      font-size: 12px;
+      font-family: "Montserrat-MediumItalic", Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-width: 100%;
+    }
     .Section p {
       font-size: 12px;
-      margin-left: 5%;
-      margin-right: 5%;
+      font-family: "Montserrat-MediumItalic", Arial, sans-serif;
+    }
+
+    .Prize p {
+      font-size: 12px;
+      font-family: "Montserrat-MediumItalic", Arial, sans-serif;
+    }
+
+    .Section img {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 5px;
+      width: 100%;
+      margin-left: auto;
+      margin-right: auto;
     }
   }
 }

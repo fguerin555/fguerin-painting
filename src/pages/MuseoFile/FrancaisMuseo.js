@@ -47,10 +47,18 @@ const FrancaisMuseo = () => {
               public
             </p>
             <p> Frédéric Guérin</p>
-            <div className={styles.WorksButton}>
-              <Link to="/Museo">
-                <button>Oeuvres</button>
-              </Link>
+            <div className={styles.ButtonContainer}>
+              <div className={styles.HorizButton}>
+                <Link to="/MuseoHoriz">
+                  <button>Oeuvres Orizontales</button>
+                </Link>
+              </div>
+
+              <div className={styles.VerticButton}>
+                <Link to="/MuseoVertic">
+                  <button>Oeuvres Verticales</button>
+                </Link>
+              </div>
             </div>
             <div className={styles.NameVideo}>
               <p>2012 Video "MUSEO INFINITO ONE".</p>

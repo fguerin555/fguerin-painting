@@ -48,10 +48,18 @@ const EnglishMuseo = () => {
             </p>
             <p> Frédéric Guérin</p>
           </div>
-          <div className={styles.WorksButton}>
-            <Link to="/Museo">
-              <button>Art Works</button>
-            </Link>
+          <div className={styles.ButtonContainer}>
+            <div className={styles.HorizButton}>
+              <Link to="/MuseoHoriz">
+                <button>Orizontal Artworks</button>
+              </Link>
+            </div>
+
+            <div className={styles.VerticButton}>
+              <Link to="/MuseoVertic">
+                <button>Vertical Artworks</button>
+              </Link>
+            </div>
           </div>
 
           <div className={styles.NameVideo}>

@@ -38,6 +38,46 @@
     color: #94e2ec;
     cursor: pointer;
   }
+  .ButtonContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .HorizButton button {
+    display: flex;
+    align-items: center;
+    color: antiquewhite;
+    background-color: rgba(10, 49, 84, 0.574);
+    border-radius: 5px;
+    font-size: 20px;
+    border: solid 2px #94e2ec;
+    margin-right: 20px;
+  }
+  .HorizButton a {
+    text-decoration: none;
+  }
+  .HorizButton button:hover {
+    color: #94e2ec;
+    cursor: pointer;
+  }
+
+  .VerticButton button {
+    display: flex;
+    align-items: center;
+    color: antiquewhite;
+    background-color: rgba(10, 49, 84, 0.574);
+    border-radius: 5px;
+    font-size: 20px;
+    border: solid 2px #94e2ec;
+  }
+  .VerticButton a {
+    text-decoration: none;
+  }
+  .VerticButton button:hover {
+    color: #94e2ec;
+    cursor: pointer;
+  }
 
   .Text {
     font-family: "Montserrat-Thin", Arial, sans-serif;
@@ -74,19 +114,6 @@
     justify-content: center !important;
   }
 
-  .WorksButton button {
-    background: rgb(182, 246, 115);
-    color: rgb(190, 38, 240);
-    border-radius: 5px;
-    border: solid 2px orange;
-    font-size: 16px;
-    margin-bottom: 20px;
-  }
-  .WorksButton button:hover {
-    cursor: pointer;
-    color: rgb(182, 246, 115);
-    background: rgb(190, 38, 240);
-  }
   .MusinfOne {
     max-width: 100%;
     display: flex;
