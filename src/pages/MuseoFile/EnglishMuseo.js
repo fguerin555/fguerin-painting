@@ -10,9 +10,9 @@ const EnglishMuseo = () => {
     <div>
       <div className={styles.EnglishMuseoPage}>
         <div className={styles.LangageChoice}>
-          <div className={styles.FrancaisMuseo}>
-            <Link to="/FrancaisMuseo">
-              <button>Français</button>
+          <div className={styles.ItalianoMuseo}>
+            <Link to="/ItalianoMuseo">
+              <button>Italiano</button>
             </Link>
           </div>
           <div className={styles.EnglishMuseo}>
@@ -20,23 +20,25 @@ const EnglishMuseo = () => {
               <button>English</button>
             </Link>
           </div>
-          <div className={styles.ItalianoMuseo}>
-            <Link to="/ItalianoMuseo">
-              <button>Italiano</button>
+          <div className={styles.FrancaisMuseo}>
+            <Link to="/FrancaisMuseo">
+              <button>Français</button>
             </Link>
           </div>
         </div>
-        <div className={styles.Text}>
+        <div className={styles.Title}>
           <div>
             {" "}
             <p>Museo Infinito Collection</p>{" "}
           </div>
 
           <div className={styles.MailLink}>
-            <a href="mailto:fguerin555@gmail.com">fguerin555@gmail.com</a>
+            {" "}
+            <p>For any informations : </p>
+            <a href="mailto:fguerin555a@gmail.com">fguerin555@gmail.com</a>
           </div>
 
-          <div>
+          <div className={styles.Text}>
             <p>
               Be an art collector and follow the evolution of the "MUSEO
               INFINITO" The affordable contemporary art….. Small-size oil
@@ -48,6 +50,7 @@ const EnglishMuseo = () => {
             </p>
             <p> Frédéric Guérin</p>
           </div>
+
           <div className={styles.ButtonContainer}>
             <div className={styles.HorizButton}>
               <Link to="/MuseoHoriz">
@@ -61,11 +64,9 @@ const EnglishMuseo = () => {
               </Link>
             </div>
           </div>
-
           <div className={styles.NameVideo}>
-            <p>2012 Video "MUSEO INFINITO ONE".</p>
+            <p>2012 Video "MUSEO INFINITO ONE"</p>
           </div>
-
           <div className={styles.MusinfOne}>
             <iframe
               width="560"
@@ -79,11 +80,9 @@ const EnglishMuseo = () => {
               alt="Video Museo infinito Uno"
             ></iframe>
           </div>
-
           <div className={styles.NameVideo}>
-            <p>2012 Video "MUSEO INFINITO TWO".</p>
+            <p>2012 Video "MUSEO INFINITO TWO"</p>
           </div>
-
           <div className={styles.MusinfTwo}>
             <iframe
               width="560"

@@ -16,7 +16,7 @@ import ItalianoVisitors from "./pages/VisitorsFile/ItalianoVisitors";
 import ItalianoMuseo from "./pages/MuseoFile/ItalianoMuseo";
 import EnglishMuseo from "./pages/MuseoFile/EnglishMuseo";
 import FrancaisMuseo from "./pages/MuseoFile/FrancaisMuseo";
-import Museo from "./pages/MuseoFile/Museo";
+
 import MuseoVertic from "./pages/MuseoFile/MuseoVertic";
 import MuseoHoriz from "./pages/MuseoFile/MuseoHoriz";
 
@@ -31,7 +31,7 @@ const App = () => {
 
         <Route path="/Paint" element={<Paint />} />
         <Route path="/Visitors" element={<Visitors />} />
-        <Route path="/Museo" element={<Museo />} />
+        <Route path="/Museo" element={<EnglishMuseo />} />
 
         <Route path="/FrancaisHome" element={<FrancaisHome />} />
         <Route path="/EnglishHome" element={<EnglishHome />} />

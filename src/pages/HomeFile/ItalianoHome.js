@@ -80,12 +80,6 @@ const ItalianoHome = () => {
           </p>
         </div>
 
-        <div className={styles.WorksButton}>
-          <Link to="/Paint">
-            <button>Opere</button>
-          </Link>
-        </div>
-
         <ScrollToTop />
         <BackButton />
       </div>

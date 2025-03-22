@@ -80,11 +80,7 @@ const Home = () => {
             "Visitors".
           </p>
         </div>
-        <div className={styles.WorksButton}>
-          <Link to="/Paint">
-            <button>Art Works</button>
-          </Link>
-        </div>
+
         <ScrollToTop />
         <BackButton />
       </div>

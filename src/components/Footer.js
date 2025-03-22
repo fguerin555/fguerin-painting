@@ -12,7 +12,7 @@ const Footer = () => {
 
           <div className={styles.FooterContactInfo}>
             <span className={styles.FooterEmail}>
-              Contact : &nbsp;{" "}
+              For any informations please contact me at : &nbsp;{" "}
               <a href="mailto:fguerin555a@gmail.com">fguerin555@gmail.com</a>
             </span>
           </div>

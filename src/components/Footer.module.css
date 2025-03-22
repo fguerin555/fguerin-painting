@@ -1,6 +1,6 @@
 .FooterBandeCouleur {
   flex-direction: row;
-  height: 92px; /* Hauteur de la bande de couleur */
+  height: 70px; /* Hauteur de la bande de couleur */
   width: 100%;
   background-color: rgba(10, 49, 84, 0.574);
   display: flex;
@@ -38,6 +38,12 @@
   cursor: pointer;
 }
 @media (max-width: 1224px) {
+  .FooterEmail {
+    font-size: 18px;
+  }
+  .FooterEmail a {
+    font-size: 18px;
+  }
   .FooterContactInfo {
     padding: 10px;
     flex-direction: column;
@@ -50,11 +56,10 @@
   }
   @media (max-width: 509px) {
     .FooterEmail {
-      font-size: 18px;
+      font-size: 14px;
     }
     .FooterEmail a {
-      width: 100%;
-      font-size: 18px;
+      font-size: 14px;
     }
   }
 }

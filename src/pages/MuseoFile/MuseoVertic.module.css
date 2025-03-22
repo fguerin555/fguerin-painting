@@ -166,8 +166,9 @@
       width: 94%;
       margin-left: 3%;
       margin-right: 3%;
-      /* height: auto;
-      object-fit: cover; */
+      height: auto;
+      object-fit: cover;
+      aspect-ratio: 9/14;
     }
   }
 }

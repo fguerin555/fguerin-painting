@@ -26,17 +26,19 @@ const ItalianoMuseo = () => {
             </Link>
           </div>
         </div>
-        <div className={styles.Text}>
+        <div className={styles.Title}>
           <div>
             {" "}
             <p>Collezione Museo Infinito</p>{" "}
           </div>
 
           <div className={styles.MailLink}>
-            <a href="mailto:fguerin555@gmail.com">fguerin555@gmail.com</a>
+            {" "}
+            <p>Per tutte le informazione : </p>
+            <a href="mailto:fguerin555a@gmail.com">fguerin555@gmail.com</a>
           </div>
 
-          <div>
+          <div className={styles.Text}>
             <p>
               Essere un collezionista d'arte e seguire l'evoluzione del "MUSEO
               INFINITO" L'arte contemporanea accessibile..... Pitture ad olio su
@@ -44,10 +46,11 @@ const ItalianoMuseo = () => {
               e numerate, a 20 euro l'una. Seguendo il concetto di musei che
               ospitano diversi linguaggi artistici, nasce una nuova arte
               freestyle, che racconta la relazione tra l'opera d'arte e il
-              pubblico
+              pubblico.
             </p>
             <p> Frédéric Guérin</p>
           </div>
+
           <div className={styles.ButtonContainer}>
             <div className={styles.HorizButton}>
               <Link to="/MuseoHoriz">
@@ -62,7 +65,7 @@ const ItalianoMuseo = () => {
             </div>
           </div>
           <div className={styles.NameVideo}>
-            <p>2012 Video "MUSEO INFINITO ONE".</p>
+            <p>2012 Video "MUSEO INFINITO ONE"</p>
           </div>
           <div className={styles.MusinfOne}>
             <iframe
@@ -78,7 +81,7 @@ const ItalianoMuseo = () => {
             ></iframe>
           </div>
           <div className={styles.NameVideo}>
-            <p>2012 Video "MUSEO INFINITO TWO".</p>
+            <p>2012 Video "MUSEO INFINITO TWO"</p>
           </div>
           <div className={styles.MusinfTwo}>
             <iframe
