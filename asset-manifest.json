@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fguerin-painting/static/css/main.976f26bb.css",
-    "main.js": "/fguerin-painting/static/js/main.dd0298bb.js",
+    "main.css": "/fguerin-painting/static/css/main.2d37028d.css",
+    "main.js": "/fguerin-painting/static/js/main.c9ee7af7.js",
     "static/media/visitor 56.jpg": "/fguerin-painting/static/media/visitor 56.d948c6d6371a564dff3d.jpg",
     "static/media/visitor 109.jpg": "/fguerin-painting/static/media/visitor 109.405b66aef1a3e7f99189.jpg",
     "static/media/visitor 87.jpg": "/fguerin-painting/static/media/visitor 87.f65423f42fbcad9f22b5.jpg",
@@ -172,22 +172,26 @@
     "static/media/Montserrat-Thin.ttf": "/fguerin-painting/static/media/Montserrat-Thin.9a7aece9cfe235bc0920.ttf",
     "static/media/Landscape05.jpg": "/fguerin-painting/static/media/Landscape05.98d85056ea108ec40830.jpg",
     "static/media/Landscape03.jpg": "/fguerin-painting/static/media/Landscape03.1514294d6056f89136b5.jpg",
+    "static/media/MI337.jpg": "/fguerin-painting/static/media/MI337.bb43dad9154019236e33.jpg",
     "static/media/Landscape04.jpg": "/fguerin-painting/static/media/Landscape04.b9c30a3a9b5f4063234a.jpg",
     "static/media/Landscape01.jpg": "/fguerin-painting/static/media/Landscape01.ee34aeab88183e9b617d.jpg",
     "static/media/MI302.jpg": "/fguerin-painting/static/media/MI302.32397b186d90f6b94dda.jpg",
+    "static/media/MI342.jpg": "/fguerin-painting/static/media/MI342.4870f62993eab517c01f.jpg",
     "static/media/SurleToitduMonde.jpg": "/fguerin-painting/static/media/SurleToitduMonde.fe0ac7402f4b816ff38c.jpg",
+    "static/media/MI318.jpg": "/fguerin-painting/static/media/MI318.042e32ba9b4b8f1e8078.jpg",
     "static/media/MI316.jpg": "/fguerin-painting/static/media/MI316.00b1ecd9ec1cbc3dc100.jpg",
+    "static/media/MI331.jpg": "/fguerin-painting/static/media/MI331.94a225a787b3b29cedaa.jpg",
     "static/media/source-sans-pro.regular.ttf": "/fguerin-painting/static/media/source-sans-pro.regular.358e8828cd2fc97c7e74.ttf",
-    "static/media/MI317.jpg": "/fguerin-painting/static/media/MI317.4aa160be864f6ebe6d04.jpg",
+    "static/media/MI327.jpg": "/fguerin-painting/static/media/MI327.2a75c42f796188f8230d.jpg",
     "static/media/Landscape02.jpg": "/fguerin-painting/static/media/Landscape02.3b344074e70a2b747536.jpg",
     "static/media/JosefinSans-Medium.ttf": "/fguerin-painting/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
     "static/media/site-painting.png": "/fguerin-painting/static/media/site-painting.4651f3b7c1972b99beda.png",
     "index.html": "/fguerin-painting/index.html",
-    "main.976f26bb.css.map": "/fguerin-painting/static/css/main.976f26bb.css.map",
-    "main.dd0298bb.js.map": "/fguerin-painting/static/js/main.dd0298bb.js.map"
+    "main.2d37028d.css.map": "/fguerin-painting/static/css/main.2d37028d.css.map",
+    "main.c9ee7af7.js.map": "/fguerin-painting/static/js/main.c9ee7af7.js.map"
   },
   "entrypoints": [
-    "static/css/main.976f26bb.css",
-    "static/js/main.dd0298bb.js"
+    "static/css/main.2d37028d.css",
+    "static/js/main.c9ee7af7.js"
   ]
 }
