@@ -40,8 +40,8 @@ const EnglishMuseo = () => {
             <p>
               Be an art collector and follow the evolution of the "MUSEO
               INFINITO" The affordable contemporary art….. Small-size oil
-              paintings on cardboard canvas (15x9 cm - 5,91x3,19 inches), all
-              signed and numbered, at 20 Euro each. Following the concept of
+              paintings on cardboard canvas (14,5 x 9 cm - 5,71 x 3,54 inches),
+              all signed and numbered, at 20 Euro each. Following the concept of
               museums housing different artistic languages, a new freestyle art
               is born, that tells the relationship between the artwork and the
               public

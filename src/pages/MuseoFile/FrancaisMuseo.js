@@ -40,11 +40,11 @@ const FrancaisMuseo = () => {
             <p>
               Soyez un collectionneur d’art et suivez l’évolution du "MUSEO
               INFINITO" Art contemporain accessible... Peintures à l’huile sur
-              toile carton (15x9 cm - 5,91x3,19 pouces), toutes signées et
+              toile carton (14,5 x 9 cm - 5,71 x 3,54 pouces), toutes signées et
               numérotées, 20 euros l'exemplaire. Suivant le concept des musées
               qui accueillent différents langages artistiques, un nouvel art
               freestyle est né, qui raconte la relation entre l’œuvre et le
-              public
+              public.
             </p>
             <p> Frédéric Guérin</p>
             <div className={styles.ButtonContainer}>

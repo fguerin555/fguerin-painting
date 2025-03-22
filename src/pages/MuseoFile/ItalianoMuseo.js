@@ -40,8 +40,8 @@ const ItalianoMuseo = () => {
             <p>
               Essere un collezionista d'arte e seguire l'evoluzione del "MUSEO
               INFINITO" L'arte contemporanea accessibile..... Pitture ad olio su
-              tela di cartone (15x9 cm - 5,91x3,19 pollici), tutte firmate e
-              numerate, a 20 euro l'una. Seguendo il concetto di musei che
+              tela di cartone (14,5 x 9 cm - 5,71 x 3,54 pollici), tutte firmate
+              e numerate, a 20 euro l'una. Seguendo il concetto di musei che
               ospitano diversi linguaggi artistici, nasce una nuova arte
               freestyle, che racconta la relazione tra l'opera d'arte e il
               pubblico

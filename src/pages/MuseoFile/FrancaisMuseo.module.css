@@ -172,12 +172,15 @@
     }
   }
 
-  @media (max-width: 508px) {
-    .FrancaisMuseoPage p {
-      font-size: 12px !important;
+  @media (max-width: 509px) {
+    .EnglishMuseoPage p {
+      font-size: 16px !important;
       max-width: 100%;
       margin-left: 5px !important;
       flex-direction: column;
+    }
+    .Text {
+      font-size: 12px;
     }
     .MailLink a {
       font-size: 16px;
