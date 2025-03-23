@@ -122,7 +122,7 @@
     align-items: center !important;
     justify-content: center !important;
   }
-  .NameVideo {
+  .NameVideo p {
     margin-bottom: 0;
     margin-top: 20px;
     display: flex;
@@ -166,7 +166,9 @@
       width: 96%;
       font-size: 14px;
     }
-
+    .NameVideo p {
+      font-size: 16px;
+    }
     .MailLink p {
       font-size: 16px;
     }
@@ -198,6 +200,11 @@
     }
     .MailLink a {
       font-size: 14px;
+    }
+
+    .NameVideo p {
+      font-size: 12px;
+      width: 100%;
     }
     .MusiInfOne {
       margin-left: 0 !important;

@@ -173,6 +173,9 @@
     .MailLink a {
       font-size: 16px !important;
     }
+    .NameVideo p {
+      font-size: 16px;
+    }
     .MusiInfOne {
       margin-left: auto !important;
       margin-right: auto !important;
@@ -204,6 +207,10 @@
     }
     .MailLink a {
       font-size: 14px;
+    }
+    .NameVideo p {
+      font-size: 12px;
+      width: 100%;
     }
     .MusiInfOne {
       margin-left: 0 !important;
