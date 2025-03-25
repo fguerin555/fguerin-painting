@@ -69,16 +69,20 @@
   }
 
   .WorksButton button {
-    background: rgb(182, 246, 115);
-    color: rgb(190, 38, 240);
+    display: flex;
+    align-items: center;
+    color: antiquewhite;
+    background-color: rgba(10, 49, 84, 0.574);
     border-radius: 5px;
-    border: solid 2px orange;
-    font-size: 16px;
+    font-size: 20px;
+    border: solid 2px #94e2ec;
+  }
+  .WorksButton a {
+    text-decoration: none;
   }
   .WorksButton button:hover {
+    color: #94e2ec;
     cursor: pointer;
-    color: rgb(182, 246, 115);
-    background: rgb(190, 38, 240);
   }
 
   @media (max-width: 1224px) {

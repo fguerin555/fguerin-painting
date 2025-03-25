@@ -13,6 +13,14 @@ import img0334 from "../../assets/Museo-img/Verticales/MI334.jpg";
 import img0348 from "../../assets/Museo-img/Verticales/MI348.jpg";
 import img0349 from "../../assets/Museo-img/Verticales/MI349.jpg";
 
+import img0361 from "../../assets/Museo-img/Verticales/MI361.jpg";
+import img0364 from "../../assets/Museo-img/Verticales/MI364.jpg";
+import img0366 from "../../assets/Museo-img/Verticales/MI366.jpg";
+import img0368 from "../../assets/Museo-img/Verticales/MI368.jpg";
+import img0374 from "../../assets/Museo-img/Verticales/MI374.jpg";
+import img0392 from "../../assets/Museo-img/Verticales/MI392.jpg";
+import img0393 from "../../assets/Museo-img/Verticales/MI393.jpg";
+
 const MuseoVertic = () => {
   return (
     <div>
@@ -101,6 +109,62 @@ const MuseoVertic = () => {
           <div className={styles.Section}>
             <p>Museo infinito n°349</p>
             <img src={img0349} alt="Oil on canvas: Museo Infinito n°349" />
+            <div className={styles.Prize}>
+              <p>for sale - à vendre - vendesi - € 20</p>
+            </div>
+          </div>
+
+          <div className={styles.Section}>
+            <p>Museo infinito n°361</p>
+            <img src={img0361} alt="Oil on canvas: Museo Infinito n°361" />
+            <div className={styles.Prize}>
+              <p>for sale - à vendre - vendesi - € 20</p>
+            </div>
+          </div>
+
+          <div className={styles.Section}>
+            <p>Museo infinito n°364</p>
+            <img src={img0364} alt="Oil on canvas: Museo Infinito n°364" />
+            <div className={styles.Prize}>
+              <p>for sale - à vendre - vendesi - € 20</p>
+            </div>
+          </div>
+
+          <div className={styles.Section}>
+            <p>Museo infinito n°366</p>
+            <img src={img0366} alt="Oil on canvas: Museo Infinito n°366" />
+            <div className={styles.Prize}>
+              <p>for sale - à vendre - vendesi - € 20</p>
+            </div>
+          </div>
+
+          <div className={styles.Section}>
+            <p>Museo infinito n°368</p>
+            <img src={img0368} alt="Oil on canvas: Museo Infinito n°368" />
+            <div className={styles.Prize}>
+              <p>for sale - à vendre - vendesi - € 20</p>
+            </div>
+          </div>
+
+          <div className={styles.Section}>
+            <p>Museo infinito n°374</p>
+            <img src={img0374} alt="Oil on canvas: Museo Infinito n°374" />
+            <div className={styles.Prize}>
+              <p>for sale - à vendre - vendesi - € 20</p>
+            </div>
+          </div>
+
+          <div className={styles.Section}>
+            <p>Museo infinito n°392</p>
+            <img src={img0392} alt="Oil on canvas: Museo Infinito n°392" />
+            <div className={styles.Prize}>
+              <p>for sale - à vendre - vendesi - € 20</p>
+            </div>
+          </div>
+
+          <div className={styles.Section}>
+            <p>Museo infinito n°393</p>
+            <img src={img0393} alt="Oil on canvas: Museo Infinito n°393" />
             <div className={styles.Prize}>
               <p>for sale - à vendre - vendesi - € 20</p>
             </div>
