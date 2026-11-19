@@ -1,0 +1,107 @@
+.VisitorsPage {
+  width: 100%;
+  margin: 0 auto;
+}
+.LangageChoice {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.FrancaisVisitors button {
+  color: antiquewhite;
+  background-color: rgba(10, 49, 84, 0.574);
+  border-radius: 5px;
+  font-size: 16px;
+  border: solid 2px #94e2ec;
+}
+.FrancaisVisitors button:hover {
+  color: #94e2ec;
+  cursor: pointer;
+}
+.EnglishVisitors button {
+  color: antiquewhite;
+  background-color: rgba(10, 49, 84, 0.574);
+  border-radius: 5px;
+  font-size: 16px;
+  border: solid 2px #94e2ec;
+}
+.EnglishVisitors button:hover {
+  color: #94e2ec;
+  cursor: pointer;
+}
+.ItalianoVisitors button {
+  color: antiquewhite;
+  background-color: rgba(10, 49, 84, 0.574);
+  border-radius: 5px;
+  font-size: 16px;
+  border: solid 2px #94e2ec;
+}
+.ItalianoVisitors button:hover {
+  color: #94e2ec;
+  cursor: pointer;
+}
+.ImageContainer {
+  /* margin: 0 auto; */
+  max-width: 1200px;
+  width: 100%; /* largeur du conteneur */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ImagesContainer img {
+  position: relative;
+  display: inline-block;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 2px;
+  max-width: 90%;
+  height: auto;
+  object-fit: cover;
+  margin-bottom: 1px !important;
+  margin-top: 0 !important;
+  margin-right: 5%;
+  margin-left: 5%;
+}
+
+.ImagesContainer .Image {
+  position: relative;
+}
+
+.ImagesContainer .Image p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+  font-family: "Montserrat-Thin", Arial, sans-serif;
+  color: rgba(253, 250, 250, 0.3);
+  /* color: white; */
+  /* mix-blend-mode: exclusion; */
+}
+.nom {
+  color: rgb(13, 1, 1);
+  font-size: 40px;
+  font-family: "Montserrat-Thin", Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0 !important;
+  margin-top: 20px;
+}
+@media (max-width: 1224px) {
+  .ImagesContainer .Image p {
+    font-size: 25px;
+  }
+  .nom {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 508px) {
+  .ImagesContainer .Image p {
+    font-size: 20px;
+  }
+  .nom {
+    font-size: 15px;
+  }
+}

@@ -29,7 +29,7 @@ const EnglishVisitors = () => {
         <div className={styles.Text}>
           <div>
             {" "}
-            <p>Visitors Collection</p>{" "}
+            <p>111 Totems</p>{" "}
           </div>
 
           <div className={styles.MailLink}>
@@ -38,23 +38,59 @@ const EnglishVisitors = () => {
 
           <div>
             <p>
-              I chose a simple language, using a basic application and the mouse
-              wich allowed me to stick to the essentials. Striving towards a
-              unique and spontaneous gesture to keep track of the fleeting state
-              of mind, I produced the entire collection in two months. The
-              evolution is cleary visible, between the first and the last work a
-              lot of things happen, affecting form, expression and meaning.
-              While keeping the codes of the graphic concept based on symmetry,
-              separation and a unique representation between the totem and the
-              icon. I naturally followed the natural evolution of the work
-              designed with frenzy and consistency.
+              Striving for a singular, spontaneous gesture to capture the
+              fleeting state of the mind—to swiftly fix a vision—I opted for a
+              simple language, utilizing a basic application (®SketchBook) and a
+              computer mouse, which allowed me to focus solely on the
+              essentials. During a period of prolific creativity, I produced the
+              entire digital collection over the course of two months
+              (March–April 2024).
+            </p>
+            <p>
+              While maintaining consistent graphic conventions—rooted in
+              symmetry, a clear demarcation between surfaces and lines, and a
+              unique mode of representation for each piece—there is a distinct
+              evolution from the first work to the last. By giving free rein to
+              form and raw expression, the totemic signifier and the iconic
+              signified followed, at every stage, the natural evolution of the
+              body of work as a whole—a collection conceived with both frenzy
+              and steadfastness.
+            </p>
+            <p>The 111-piece project is divided into several phases</p>
+            <p>
+              The first phase, now complete, consists of the creation of flat,
+              digital graphic renderings for all 111 pieces. Printable
+              dimensions: 62 x 35 cm.
+            </p>
+            <div className={styles.WorksButton}>
+              <Link to="/Visitors">
+                <button>First Phase - Art Works</button>
+              </Link>
+            </div>
+            <p>
+              The second phase is currently underway (with 60 out of 111 pieces
+              finished) and involves 2D graphic representations—printed on 33 x
+              33 cm ®Forex panels—of ceramic bas-reliefs. Each piece will be
+              produced in a limited edition of five, all numbered and signed.
+            </p>
+            <div className={styles.WorksButton}>
+              <Link to="/Ceramique">
+                <button>Second Phase - Art Works</button>
+              </Link>
+            </div>
+            <p>
+              The third phase, scheduled to begin with the first ten pieces in
+              2027—and available by commission for any piece in the
+              collection—will involve the physical creation of the bas-reliefs
+              in colored ceramic. Dimensions: 30 x 30 cm. Each piece will be
+              produced in a limited edition of five, all numbered and signed.
+            </p>
+            <p>
+              Firmly believing in the positive reach and universal visual impact
+              of these totems, I do not rule out any of the potential forms the
+              project might take: murals, tapestries, neon installations, etc.
             </p>
             <p> Frédéric Guérin</p>
-          </div>
-          <div className={styles.WorksButton}>
-            <Link to="/Visitors">
-              <button>Art Works</button>
-            </Link>
           </div>
         </div>
         <ScrollToTop />

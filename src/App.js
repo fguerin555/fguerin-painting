@@ -19,6 +19,8 @@ import FrancaisMuseo from "./pages/MuseoFile/FrancaisMuseo";
 
 import MuseoVertic from "./pages/MuseoFile/MuseoVertic";
 import MuseoHoriz from "./pages/MuseoFile/MuseoHoriz";
+import Ceramique from "./pages/Ceramique/Ceramique";
+import Totem from "./pages/TotemFile/Totem";
 
 const App = () => {
   return (
@@ -46,6 +48,9 @@ const App = () => {
         <Route path="/ItalianoMuseo" element={<ItalianoMuseo />} />
         <Route path="/EnglishMuseo" element={<EnglishMuseo />} />
         <Route path="/FrancaisMuseo" element={<FrancaisMuseo />} />
+
+        <Route path="/Ceramique" element={<Ceramique />} />
+        <Route path="/Totem" element={<Totem />} />
       </Routes>
 
       <Footer />
