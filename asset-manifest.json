@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fguerin-painting/static/css/main.14650030.css",
-    "main.js": "/fguerin-painting/static/js/main.83235af8.js",
+    "main.css": "/fguerin-painting/static/css/main.0079d98f.css",
+    "main.js": "/fguerin-painting/static/js/main.9d2a17aa.js",
     "static/media/visitor 56.jpg": "/fguerin-painting/static/media/visitor 56.ff12823a00a69b3456ab.jpg",
     "static/media/ceramique25.png": "/fguerin-painting/static/media/ceramique25.c8ae06f2a1d7025d8fb4.png",
     "static/media/ceramique34.png": "/fguerin-painting/static/media/ceramique34.300e41b7099a5b2bc469.png",
@@ -153,6 +153,7 @@
     "static/media/visitor 61.jpg": "/fguerin-painting/static/media/visitor 61.9e4f43593482daf3a93a.jpg",
     "static/media/visitor 30.jpg": "/fguerin-painting/static/media/visitor 30.a63c0ad433323c200241.jpg",
     "static/media/Arte.jpg": "/fguerin-painting/static/media/Arte.5e21dee2ec22059cd3e1.jpg",
+    "static/media/visitor 1 Open.jpg": "/fguerin-painting/static/media/visitor 1 Open.fc8c69dd51b116e35c13.jpg",
     "static/media/Poeta.jpg": "/fguerin-painting/static/media/Poeta.fe03cdfecc61219fab40.jpg",
     "static/media/visitor 1.jpg": "/fguerin-painting/static/media/visitor 1.b51193019d5bae5f02e1.jpg",
     "static/media/Less.jpg": "/fguerin-painting/static/media/Less.71aa21c156a021141c13.jpg",
@@ -240,11 +241,11 @@
     "static/media/JosefinSans-Medium.ttf": "/fguerin-painting/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
     "static/media/MI392.jpg": "/fguerin-painting/static/media/MI392.397380cbb807f13d5a8b.jpg",
     "index.html": "/fguerin-painting/index.html",
-    "main.14650030.css.map": "/fguerin-painting/static/css/main.14650030.css.map",
-    "main.83235af8.js.map": "/fguerin-painting/static/js/main.83235af8.js.map"
+    "main.0079d98f.css.map": "/fguerin-painting/static/css/main.0079d98f.css.map",
+    "main.9d2a17aa.js.map": "/fguerin-painting/static/js/main.9d2a17aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.14650030.css",
-    "static/js/main.83235af8.js"
+    "static/css/main.0079d98f.css",
+    "static/js/main.9d2a17aa.js"
   ]
 }
