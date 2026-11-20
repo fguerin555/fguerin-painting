@@ -59,8 +59,8 @@
   object-fit: cover;
   margin-bottom: 1px !important;
   margin-top: 0 !important;
-  margin-right: 5%;
-  margin-left: 5%;
+  margin-right: auto;
+  margin-left: 29%;
 }
 
 .ImagesContainer .Image {
