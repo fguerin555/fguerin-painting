@@ -370,7 +370,6 @@ const Ceramique = () => {
       </div>
 
       <div>
-        <BeforeFooter />
         <ScrollToTop />
         <BackButton />
       </div>
