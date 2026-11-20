@@ -12,7 +12,7 @@
   color: antiquewhite;
   background-color: rgba(10, 49, 84, 0.574);
   border-radius: 5px;
-  font-size: 36px;
+  font-size: 16px;
   border: solid 2px #94e2ec;
 }
 .ItalianoTotem button:hover {
@@ -23,7 +23,7 @@
   color: antiquewhite;
   background-color: rgba(10, 49, 84, 0.574);
   border-radius: 5px;
-  font-size: 36px;
+  font-size: 16px;
   border: solid 2px #94e2ec;
 }
 .FrancaisTotem button:hover {
@@ -34,21 +34,41 @@
   color: antiquewhite;
   background-color: rgba(10, 49, 84, 0.574);
   border-radius: 5px;
-  font-size: 36px;
+  font-size: 16px;
   border: solid 2px #94e2ec;
 }
 .EnglishTotem button:hover {
   color: #94e2ec;
   cursor: pointer;
 }
+.imgOpen {
+  position: relative;
+  display: inline-block;
+  max-width: 50%; /* ou la taille souhaitée */
+  margin-top: 0 !important;
+  margin-bottom: 1px !important;
+  margin-left: auto;
+  margin-right: auto;
+}
 
-.ImageContainer {
-  /* margin: 0 auto; */
-  max-width: 1200px;
-  width: 100%; /* largeur du conteneur */
+.imgOpen {
+  flex: 1; /* prend tout l'espace vertical disponible sous les boutons */
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  align-items: center; /* centre verticalement */
+  justify-content: center; /* centre horizontalement */
+  width: 100%;
+  padding: 16px;
+}
+
+.imgOpen img {
+  display: block;
+  max-width: 150%; /* ajustez selon la taille souhaitée */
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 2px;
 }
 .ImagesContainer img {
   position: relative;

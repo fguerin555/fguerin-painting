@@ -4,6 +4,7 @@ import "../../Global.css";
 import styles from "./Totem.module.css";
 import ScrollToTop from "../../components/ScrollToTop";
 import BackButton from "../../components/BackButton";
+import imag1 from "../../assets/Visitors-img/visitor 1 Open.jpg";
 
 const Totem = () => {
   return (
@@ -29,7 +30,9 @@ const Totem = () => {
           </div>
         </div>
       </div>
-
+      <div className={styles.imgOpen}>
+        <img src={imag1} alt="totem1" />
+      </div>
       <div>
         <ScrollToTop />
         <BackButton />
