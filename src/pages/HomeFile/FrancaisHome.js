@@ -76,8 +76,8 @@ const FrancaisHome = () => {
             toile de 14 x 9cm.
           </p>
           <p>
-            2022: Production d'Art Numérique de 110 pièces pour la collection
-            "Visitors".
+            2024: Production d'Art Numérique de 111 pièces pour la collection
+            "111 Totems".
           </p>
         </div>
 

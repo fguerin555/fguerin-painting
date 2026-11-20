@@ -47,38 +47,39 @@ const EnglishHome = () => {
           </p>
           <p>2006: Personnal Exibition at “ZOE SPAZIO ARTE”. Roma. </p>
           <p>
-            2007: Mostra collettiva a "L'IMPRONTA" - Amelia Buzzi-Puccini. Roma.
+            2007: Group exhibition at "L'IMPRONTA" – Amelia Buzzi-Puccini, Rome.
           </p>
-          <p>2008: Personnal Exibition at Galleria Horti Lamiani. Roma.</p>
+
+          <p>2008: Solo exhibition at Galleria Horti Lamiani, Rome.</p>
           <p>
             2009: Group exhibition at the Museum of Contemporary Art of
             L’Aquila.
             <br />
-            "Falce e Martello Simboli di Ferro". Catalogo.
+            "Falce e Martello Simboli di Ferro" (Hammer and Sickle: Iron
+            Symbols). Catalogue.
           </p>
-          <p>2009: Mostra collettiva alla “TAKEAWAYGALLERY”.Roma.</p>
+          <p>2009: Group exhibition at "TAKEAWAYGALLERY," Rome.</p>
           <p>
-            2010: Mostra collettiva itinerante “13 X 17” a cura di Philippe
-            Daverio e Jean Blanchaert.
+            2010: Traveling group exhibition "13 X 17," curated by Philippe
+            Daverio and Jean Blanchaert.
             <br />
-            Biennale di Venezia. Palazzo Fava di Bologna. Spazio d'Arte
-            Alviti.Roma.
+            Venice Biennale; Palazzo Fava, Bologna; Spazio d'Arte Alviti, Rome.
             <br />
-            Catalogo Edizione Rizzoli a cura di Philippe Daverio e Jean
-            Blanchaert
+            Catalogue published by Rizzoli, curated by Philippe Daverio and Jean
+            Blanchaert.
           </p>
           <p>
-            2010: Mostra collettiva “24 X 24 “ galleria “OPERA UNICA”.Roma.
-            Catalogo.
+            2010: Group exhibition "24 X 24" at the "OPERA UNICA" gallery, Rome.
+            Catalogue.
           </p>
-          <p>2011: Mostra collettiva "24 X 24" Studio Claudio Abate.Roma</p>
+          <p>2011: Group exhibition "24 X 24" at Studio Claudio Abate, Rome.</p>
           <p>
-            2012-2016 : Produzione del "Museo Infinito", 1000 pezzi oli su tela
-            di 14 x 9cm.
+            2012–2016: Creation of the "Infinite Museum" (*Museo Infinito*),
+            consisting of 1,000 oil-on-canvas pieces, each measuring 14 x 9 cm.
           </p>
           <p>
-            2022: Produzione Arte Digitale di 110 pezzi par la collezione
-            "Visitors".
+            2024: Creation of 111 digital art pieces for the "111 Totems"
+            collection.
           </p>
         </div>
 

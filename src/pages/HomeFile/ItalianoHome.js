@@ -72,8 +72,8 @@ const ItalianoHome = () => {
             canvas of 14 x 9cm.
           </p>
           <p>
-            2022: Digital Art Production of 110 pieces for the "Visitors"
-            collection.
+            2024: Produzione di 111 opere d'arte digitali per la collezione "111
+            Totems".
           </p>
         </div>
 
