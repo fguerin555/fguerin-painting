@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/fguerin-painting/static/css/main.0fd1cf50.css",
-    "main.js": "/fguerin-painting/static/js/main.b2086d7c.js",
+    "main.js": "/fguerin-painting/static/js/main.20651f2f.js",
     "static/media/visitor 56.jpg": "/fguerin-painting/static/media/visitor 56.ff12823a00a69b3456ab.jpg",
     "static/media/ceramique39.png": "/fguerin-painting/static/media/ceramique39.985c6751d127c061d9ec.png",
+    "static/media/ceramique1.png": "/fguerin-painting/static/media/ceramique1.a867bd39ef24d6957f79.png",
     "static/media/ceramique25.png": "/fguerin-painting/static/media/ceramique25.c8ae06f2a1d7025d8fb4.png",
     "static/media/ceramique34.png": "/fguerin-painting/static/media/ceramique34.300e41b7099a5b2bc469.png",
     "static/media/visitor 87.jpg": "/fguerin-painting/static/media/visitor 87.d6dde85b1db2f821d47d.jpg",
@@ -24,7 +25,6 @@
     "static/media/ceramique7.png": "/fguerin-painting/static/media/ceramique7.203cfab330cb96588f13.png",
     "static/media/ceramique18.png": "/fguerin-painting/static/media/ceramique18.cd175df4b1819e08a91a.png",
     "static/media/ceramique15.png": "/fguerin-painting/static/media/ceramique15.bd0c436000ab01fec5b6.png",
-    "static/media/ceramique1.png": "/fguerin-painting/static/media/ceramique1.ba176b8e6e8a902c6236.png",
     "static/media/ceramique16.png": "/fguerin-painting/static/media/ceramique16.303552eff1e8b7c00303.png",
     "static/media/ceramique22.png": "/fguerin-painting/static/media/ceramique22.c51ad61bc196c8e23f4d.png",
     "static/media/ceramique11.png": "/fguerin-painting/static/media/ceramique11.2b29833778c7b351cd2a.png",
@@ -246,10 +246,10 @@
     "static/media/MI392.jpg": "/fguerin-painting/static/media/MI392.397380cbb807f13d5a8b.jpg",
     "index.html": "/fguerin-painting/index.html",
     "main.0fd1cf50.css.map": "/fguerin-painting/static/css/main.0fd1cf50.css.map",
-    "main.b2086d7c.js.map": "/fguerin-painting/static/js/main.b2086d7c.js.map"
+    "main.20651f2f.js.map": "/fguerin-painting/static/js/main.20651f2f.js.map"
   },
   "entrypoints": [
     "static/css/main.0fd1cf50.css",
-    "static/js/main.b2086d7c.js"
+    "static/js/main.20651f2f.js"
   ]
 }
