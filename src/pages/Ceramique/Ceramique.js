@@ -41,7 +41,10 @@ import imag33 from "../../assets/Ceramique/ceramique33.png";
 import imag34 from "../../assets/Ceramique/ceramique34.png";
 import imag35 from "../../assets/Ceramique/ceramique35.png";
 import imag36 from "../../assets/Ceramique/ceramique36.png";
-
+import imag37 from "../../assets/Ceramique/ceramique37.png";
+import imag38 from "../../assets/Ceramique/ceramique38.png";
+import imag39 from "../../assets/Ceramique/ceramique39.png";
+import imag40 from "../../assets/Ceramique/ceramique40.png";
 const Ceramique = () => {
   return (
     <div>
@@ -365,6 +368,38 @@ const Ceramique = () => {
         </div>
         <div className={styles.Image}>
           <img src={imag36} alt="Visitors numero 36" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Totem n°37 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag37} alt="Visitors numero 37" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Totem n°38 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag38} alt="Visitors numero 38" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Totem n°39 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag39} alt="Visitors numero 39" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Totem n°40 </p>
+        </div>
+        <div className={styles.Image}>
+          <img src={imag40} alt="Visitors numero 40" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
       </div>
