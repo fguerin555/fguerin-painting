@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fguerin-painting/static/css/main.0fd1cf50.css",
-    "main.js": "/fguerin-painting/static/js/main.216227fa.js",
+    "main.js": "/fguerin-painting/static/js/main.b2086d7c.js",
     "static/media/visitor 56.jpg": "/fguerin-painting/static/media/visitor 56.ff12823a00a69b3456ab.jpg",
     "static/media/ceramique39.png": "/fguerin-painting/static/media/ceramique39.985c6751d127c061d9ec.png",
     "static/media/ceramique25.png": "/fguerin-painting/static/media/ceramique25.c8ae06f2a1d7025d8fb4.png",
@@ -24,6 +24,7 @@
     "static/media/ceramique7.png": "/fguerin-painting/static/media/ceramique7.203cfab330cb96588f13.png",
     "static/media/ceramique18.png": "/fguerin-painting/static/media/ceramique18.cd175df4b1819e08a91a.png",
     "static/media/ceramique15.png": "/fguerin-painting/static/media/ceramique15.bd0c436000ab01fec5b6.png",
+    "static/media/ceramique1.png": "/fguerin-painting/static/media/ceramique1.ba176b8e6e8a902c6236.png",
     "static/media/ceramique16.png": "/fguerin-painting/static/media/ceramique16.303552eff1e8b7c00303.png",
     "static/media/ceramique22.png": "/fguerin-painting/static/media/ceramique22.c51ad61bc196c8e23f4d.png",
     "static/media/ceramique11.png": "/fguerin-painting/static/media/ceramique11.2b29833778c7b351cd2a.png",
@@ -43,7 +44,6 @@
     "static/media/ceramique13.png": "/fguerin-painting/static/media/ceramique13.d8b0b4a76e4b5a6edf9f.png",
     "static/media/ceramique6.png": "/fguerin-painting/static/media/ceramique6.8548f7fb258b4a8ea821.png",
     "static/media/ceramique20.png": "/fguerin-painting/static/media/ceramique20.f0e24951516927ec58cf.png",
-    "static/media/ceramique1.png": "/fguerin-painting/static/media/ceramique1.03ab2dd7a8b6d153b85a.png",
     "static/media/ceramique19.png": "/fguerin-painting/static/media/ceramique19.9fcd0f16cada50c74084.png",
     "static/media/visitor 23.jpg": "/fguerin-painting/static/media/visitor 23.593087a0a03b40ea9abf.jpg",
     "static/media/visitor 34.jpg": "/fguerin-painting/static/media/visitor 34.6855f0f47e837d70130c.jpg",
@@ -246,10 +246,10 @@
     "static/media/MI392.jpg": "/fguerin-painting/static/media/MI392.397380cbb807f13d5a8b.jpg",
     "index.html": "/fguerin-painting/index.html",
     "main.0fd1cf50.css.map": "/fguerin-painting/static/css/main.0fd1cf50.css.map",
-    "main.216227fa.js.map": "/fguerin-painting/static/js/main.216227fa.js.map"
+    "main.b2086d7c.js.map": "/fguerin-painting/static/js/main.b2086d7c.js.map"
   },
   "entrypoints": [
     "static/css/main.0fd1cf50.css",
-    "static/js/main.216227fa.js"
+    "static/js/main.b2086d7c.js"
   ]
 }
