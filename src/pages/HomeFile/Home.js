@@ -73,8 +73,8 @@ const Home = () => {
             di 14 x 9cm.
           </p>
           <p>
-            2022: Produzione Arte Digitale di 110 pezzi par la collezione
-            "Visitors".
+            2022: Produzione Arte Digitale di 111 pezzi par la collezione
+            "111-Totems".
           </p>
         </div>
 

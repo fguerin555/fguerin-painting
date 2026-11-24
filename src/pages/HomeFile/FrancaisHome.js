@@ -77,7 +77,7 @@ const FrancaisHome = () => {
           </p>
           <p>
             2024: Production d'Art Numérique de 111 pièces pour la collection
-            "111 Totems".
+            "111-Totems".
           </p>
         </div>
 

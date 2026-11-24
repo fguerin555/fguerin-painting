@@ -78,7 +78,7 @@ const EnglishHome = () => {
             consisting of 1,000 oil-on-canvas pieces, each measuring 14 x 9 cm.
           </p>
           <p>
-            2024: Creation of 111 digital art pieces for the "111 Totems"
+            2024: Creation of 111 digital art pieces for the "111-Totems"
             collection.
           </p>
         </div>

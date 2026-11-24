@@ -72,8 +72,8 @@ const ItalianoHome = () => {
             canvas of 14 x 9cm.
           </p>
           <p>
-            2024: Produzione di 111 opere d'arte digitali per la collezione "111
-            Totems".
+            2024: Produzione di 111 opere d'arte digitali per la collezione
+            "111-Totems".
           </p>
         </div>
 
