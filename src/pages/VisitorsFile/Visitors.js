@@ -153,66 +153,71 @@ const Visitors = () => {
         </div>
       </div>
       <div className={styles.ImagesContainer}>
-        <div className={styles.nom}>
-          {" "}
-          <p>Totem n°1 - Ancestral</p>
-        </div>
         <div className={styles.Image}>
           <img src={imag1} alt="Visitors numero 1" />
           <p className={styles.transparentText}>©Frédéric Guérin</p>
         </div>
-
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°2 - C'est comme ça</p>
+          <p>Totem n°1 - Ancestral</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag2} alt="Visitors numero 2" />
           <p className={styles.transparentText}>©Frédéric Guérin</p>
         </div>
-
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°3 - Alive</p>
+          <p>Totem n°2 - C'est comme ça</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag3} alt="Visitors numero 3" />
           <p className={styles.transparentText}>©Frédéric Guérin</p>
         </div>
-
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°4 - Magari</p>
+          <p>Totem n°3 - Alive</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag4} alt="Visitors numero 4" />
           <p className={styles.transparentText}>©Frédéric Guérin</p>
         </div>
-
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°5 - Stand</p>
+          <p>Totem n°4 - Magari</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag5} alt="Visitors numero 5" />
           <p className={styles.transparentText}>©Frédéric Guérin</p>
         </div>
-
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°6 - Ready for the manna</p>
+          <p>Totem n°5 - Stand</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag6} alt="Visitors numero 6" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Totem n°6 - Ready for the manna</p>
+        </div>
 
+        <div className={styles.Image}>
+          <img src={imag7} alt="Visitors numero 7" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
         <div className={styles.nom}>
           {" "}
           <p>Totem n°7 - Pick up a signal</p>
         </div>
+
         <div className={styles.Image}>
-          <img src={imag7} alt="Visitors numero 7" />
+          <img src={imag8} alt="Visitors numero 8" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
@@ -221,837 +226,926 @@ const Visitors = () => {
         </div>
 
         <div className={styles.Image}>
-          <img src={imag8} alt="Visitors numero 8" />
+          <img src={imag9} alt="Visitors numero 9" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
-
         <div className={styles.nom}>
           {" "}
           <p>Totem n°9 - Grandmaster</p>
         </div>
-        <div className={styles.Image}>
-          <img src={imag9} alt="Visitors numero 9" />
-          <p className={styles.transparentText}> ©Frédéric Guérin</p>
-        </div>
 
-        <div className={styles.nom}>
-          {" "}
-          <p>Totem n°10 - NPS Shamana</p>
-        </div>
         <div className={styles.Image}>
           <img src={imag10} alt="Visitors numero 10" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
-
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°11 - Funky</p>
+          <p>Totem n°10 - NPS Shamana</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag11} alt="Visitors numero 11" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°12 - Desou Dance</p>
+          <p>Totem n°11 - Funky</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag12} alt="Visitors numero 12" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°13 - Ambra</p>
+          <p>Totem n°12 - Desou Dance</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag13} alt="Visitors numero 13" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°14 - Bip!</p>
+          <p>Totem n°13 - Ambra</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag14} alt="Visitors numero 14" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°15 - Shakkra</p>
+          <p>Totem n°14 - Bip!</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag15} alt="Visitors numero 15" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°16 - Don't shoot!</p>
+          <p>Totem n°15 - Shakkra</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag16} alt="Visitors numero 16" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°17 -Mask</p>
+          <p>Totem n°16 - Don't shoot!</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag17} alt="Visitors numero 17" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°18 - Shooted</p>
+          <p>Totem n°17 -Mask</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag18} alt="Visitors numero 18" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°19 - Choice</p>
+          <p>Totem n°18 - Shooted</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag19} alt="Visitors numero 19" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°20 - Futur</p>
+          <p>Totem n°19 - Choice</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag20} alt="Visitors numero 20" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°21 - OK</p>
+          <p>Totem n°20 - Futur</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag21} alt="Visitors numero 21" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°22 - Master Kamae</p>
+          <p>Totem n°21 - OK</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag22} alt="Visitors numero 22" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°23 - Buzz</p>
+          <p>Totem n°22 - Master Kamae</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag23} alt="Visitors numero 23" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°24 - Green kamae</p>
+          <p>Totem n°23 - Buzz</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag24} alt="Visitors numero 24" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°25 -Vegan</p>
+          <p>Totem n°24 - Green kamae</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag25} alt="Visitors numero 25" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°26 - Ten</p>
+          <p>Totem n°25 -Vegan</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag26} alt="Visitors numero 26" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°27 - Feekat</p>
+          <p>Totem n°26 - Ten</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag27} alt="Visitors numero 27" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°28 - La Source</p>
+          <p>Totem n°27 - Feekat</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag28} alt="Visitors numero 28" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°29 - Chocolat</p>
+          <p>Totem n°28 - La Source</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag29} alt="Visitors numero 29" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°30 - Seven</p>
+          <p>Totem n°29 - Chocolat</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag30} alt="Visitors numero 30" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
-
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°31 - Five</p>
+          <p>Totem n°30 - Seven</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag31} alt="Visitors numero 31" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
-
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°32 - Atlas</p>
+          <p>Totem n°31 - Five</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag32} alt="Visitors numero 32" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°33 - Otto</p>
+          <p>Totem n°32 - Atlas</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag33} alt="Visitors numero 33" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°34 - Void</p>
+          <p>Totem n°33 - Otto</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag34} alt="Visitors numero 34" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°35 - You know</p>
+          <p>Totem n°34 - Void</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag35} alt="Visitors numero 35" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°36 - Déchiré</p>
+          <p>Totem n°35 - You know</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag36} alt="Visitors numero 36" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°37 - Gaming</p>
+          <p>Totem n°36 - Déchiré</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag37} alt="Visitors numero 37" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°38 - Visitor</p>
+          <p>Totem n°37 - Gaming</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag38} alt="Visitors numero 38" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°39 - Speaking</p>
+          <p>Totem n°38 - Visitor</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag39} alt="Visitors numero 39" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°40 - 40. Baby One</p>
+          <p>Totem n°39 - Speaking</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag40} alt="Visitors numero 40" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°41 - Baby two</p>
+          <p>Totem n°40 - 40. Baby One</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag41} alt="Visitors numero 41" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°42 - Pet</p>
+          <p>Totem n°41 - Baby two</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag42} alt="Visitors numero 42" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°43 - Doctor</p>
+          <p>Totem n°42 - Pet</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag43} alt="Visitors numero 43" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°44 - The manna</p>
+          <p>Totem n°43 - Doctor</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag44} alt="Visitors numero 44" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°45 - Touché.e</p>
+          <p>Totem n°44 - The manna</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag45} alt="Visitors numero 45" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°46 - Coffee</p>
+          <p>Totem n°45 - Touché.e</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag46} alt="Visitors numero 46" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°47 - Call me</p>
+          <p>Totem n°46 - Coffee</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag47} alt="Visitors numero 47" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°48 - Juggling</p>
+          <p>Totem n°47 - Call me</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag48} alt="Visitors numero 48" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°49 - Waiting for a star</p>
+          <p>Totem n°48 - Juggling</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag49} alt="Visitors numero 49" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°50 - Don't worry</p>
+          <p>Totem n°49 - Waiting for a star</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag50} alt="Visitors numero 50" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°51 - Golden</p>
+          <p>Totem n°50 - Don't worry</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag51} alt="Visitors numero 51" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°52 - So what?!</p>
+          <p>Totem n°51 - Golden</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag52} alt="Visitors numero 52" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°53 - Right</p>
+          <p>Totem n°52 - So what?!</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag53} alt="Visitors numero 53" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°54 - Elevation</p>
+          <p>Totem n°53 - Right</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag54} alt="Visitors numero 54" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°55 - Tripping</p>
+          <p>Totem n°54 - Elevation</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag55} alt="Visitors numero 55" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°56 - Jumping</p>
+          <p>Totem n°55 - Tripping</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag56} alt="Visitors numero 56" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°57 - Praying</p>
+          <p>Totem n°56 - Jumping</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag57} alt="Visitors numero 57" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°58 - Looking for</p>
+          <p>Totem n°57 - Praying</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag58} alt="Visitors numero 58" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°59 - Princess</p>
+          <p>Totem n°58 - Looking for</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag59} alt="Visitors numero 59" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°60 - Black knight</p>
+          <p>Totem n°59 - Princess</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag60} alt="Visitors numero 60" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°61 - Lawyer</p>
+          <p>Totem n°60 - Black knight</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag61} alt="Visitors numero 61" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°62 - Electra</p>
+          <p>Totem n°61 - Lawyer</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag62} alt="Visitors numero 62" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°63 - On/Off</p>
+          <p>Totem n°62 - Electra</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag63} alt="Visitors numero 63" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°64 - Savana</p>
+          <p>Totem n°63 - On/Off</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag64} alt="Visitors numero 64" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°65 - Papessa</p>
+          <p>Totem n°64 - Savana</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag65} alt="Visitors numero 65" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°66 - Guru mood</p>
+          <p>Totem n°65 - Papessa</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag66} alt="Visitors numero 66" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°67 - Prince Kamae</p>
+          <p>Totem n°66 - Guru mood</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag67} alt="Visitors numero 67" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°68 - Narcissus</p>
+          <p>Totem n°67 - Prince Kamae</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag68} alt="Visitors numero 68" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°69 - Warning</p>
+          <p>Totem n°68 - Narcissus</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag69} alt="Visitors numero 69" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°70 - Bad boy</p>
+          <p>Totem n°69 - Warning</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag70} alt="Visitors numero 70" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°71 - Again!</p>
+          <p>Totem n°70 - Bad boy</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag71} alt="Visitors numero 71" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°72 - Black angel</p>
+          <p>Totem n°71 - Again!</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag72} alt="Visitors numero 72" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°73 - White angel</p>
+          <p>Totem n°72 - Black angel</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag73} alt="Visitors numero 73" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°74 - Sugar Blue</p>
+          <p>Totem n°73 - White angel</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag74} alt="Visitors numero 74" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°75 - Ananine</p>
+          <p>Totem n°74 - Sugar Blue</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag75} alt="Visitors numero 75" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°76 - Hermit</p>
+          <p>Totem n°75 - Ananine</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag76} alt="Visitors numero 76" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°77 - Flying</p>
+          <p>Totem n°76 - Hermit</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag77} alt="Visitors numero 77" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°78 - Lost</p>
+          <p>Totem n°77 - Flying</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag78} alt="Visitors numero 78" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°79 - Rebound</p>
+          <p>Totem n°78 - Lost</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag79} alt="Visitors numero 79" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°80 - Blue fair</p>
+          <p>Totem n°79 - Rebound</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag80} alt="Visitors numero 80" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°81 - Cocaine mood</p>
+          <p>Totem n°80 - Blue fair</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag81} alt="Visitors numero 81" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°82 - X dimension</p>
+          <p>Totem n°81 - Cocaine mood</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag82} alt="Visitors numero 82" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°83 - Captain</p>
+          <p>Totem n°82 - X dimension</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag83} alt="Visitors numero 83" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°84 - Politician</p>
+          <p>Totem n°83 - Captain</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag84} alt="Visitors numero 84" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°85 - Black</p>
+          <p>Totem n°84 - Politician</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag85} alt="Visitors numero 85" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°86 - Eatable</p>
+          <p>Totem n°85 - Black</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag86} alt="Visitors numero 86" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°87 - Hot freezing</p>
+          <p>Totem n°86 - Eatable</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag87} alt="Visitors numero 87" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°88 - Listen!</p>
+          <p>Totem n°87 - Hot freezing</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag88} alt="Visitors numero 88" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°89 - Listen</p>
+          <p>Totem n°88 - Listen!</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag89} alt="Visitors numero 89" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
-        <div className={styles.nom}>
-          {" "}
-          <p>Totem n°90 - Gatherer</p>
-        </div>
+
         <div className={styles.Image}>
           <img src={imag90} alt="Visitors numero 90" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°91 - Hunter</p>
+          <p>Totem n°90 - Gatherer</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag91} alt="Visitors numero 91" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°92 - Zen</p>
+          <p>Totem n°91 - Hunter</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag92} alt="Visitors numero 92" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°93 - Cotton</p>
+          <p>Totem n°92 - Zen</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag93} alt="Visitors numero 93" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°94 - Down</p>
+          <p>Totem n°93 - Cotton</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag94} alt="Visitors numero 94" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°95 - Not spring</p>
+          <p>Totem n°94 - Down</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag95} alt="Visitors numero 95" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°96 - Dancing pills</p>
+          <p>Totem n°95 - Not spring</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag96} alt="Visitors numero 96" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°97 - Rain dance</p>
+          <p>Totem n°96 - Dancing pills</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag97} alt="Visitors numero 97" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°98 - Red savana</p>
+          <p>Totem n°97 - Rain dance</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag98} alt="Visitors numero 98" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°99 - Initiated</p>
+          <p>Totem n°98 - Red savana</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag99} alt="Visitors numero 99" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°100 - Bones</p>
+          <p>Totem n°99 - Initiated</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag100} alt="Visitors numero 100" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°101 - In the green</p>
+          <p>Totem n°100 - Bones</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag101} alt="Visitors numero 101" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°102 - Baby is craying</p>
+          <p>Totem n°101 - In the green</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag102} alt="Visitors numero 102" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°103 - Master 1</p>
+          <p>Totem n°102 - Baby is craying</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag103} alt="Visitors numero 103" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°104 - Master 2</p>
+          <p>Totem n°103 - Master 1</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag104} alt="Visitors numero 104" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°105 - Master 3</p>
+          <p>Totem n°104 - Master 2</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag105} alt="Visitors numero 105" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°106 - Mat</p>
+          <p>Totem n°105 - Master 3</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag106} alt="Visitors numero 106" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totemn°107 - Queen</p>
+          <p>Totem n°106 - Mat</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag107} alt="Visitors numero 107" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°108 - Saoul</p>
+          <p>Totemn°107 - Queen</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag108} alt="Visitors numero 108" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°109 - Fabric</p>
+          <p>Totem n°108 - Saoul</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag109} alt="Visitors numero 109" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°110- Good bye </p>
+          <p>Totem n°109 - Fabric</p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag110} alt="Visitors numero 110" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°111 - Quantum</p>
+          <p>Totem n°110- Good bye </p>
         </div>
+
         <div className={styles.Image}>
           <img src={imag111} alt="Visitors numero 111" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Totem n°111 - Quantum</p>
         </div>
       </div>
 
