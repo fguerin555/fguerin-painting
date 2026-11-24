@@ -59,8 +59,8 @@ const EnglishVisitors = () => {
             <p>The 111-piece project is divided into several phases</p>
             <p>
               The first phase, now complete, consists of the creation of flat,
-              digital graphic renderings for all 111 pieces. Printable
-              dimensions: 62 x 35 cm.
+              virtual digital graphic designs for the 111 pieces. Printable on
+              alumium.
             </p>
             <div className={styles.WorksButton}>
               <Link to="/Visitors">
@@ -68,10 +68,10 @@ const EnglishVisitors = () => {
               </Link>
             </div>
             <p>
-              The second phase is currently underway (with 60 out of 111 pieces
-              finished) and involves 2D graphic representations—printed on 33 x
-              33 cm ®Forex panels—of ceramic bas-reliefs. Each piece will be
-              produced in a limited edition of five, all numbered and signed.
+              The second phase, currently underway, involves printing the totems
+              as *trompe-l'œil* ceramic bas-reliefs (printed on Forex®; 33 x 33
+              cm). Each piece will be produced in a limited edition of five,
+              numbered and signed.
             </p>
             <div className={styles.WorksButton}>
               <Link to="/Ceramique">

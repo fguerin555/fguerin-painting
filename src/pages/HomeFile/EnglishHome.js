@@ -77,10 +77,7 @@ const EnglishHome = () => {
             2012–2016: Creation of the "Infinite Museum" (*Museo Infinito*),
             consisting of 1,000 oil-on-canvas pieces, each measuring 14 x 9 cm.
           </p>
-          <p>
-            2024: Creation of 111 digital art pieces for the "111-Totems"
-            collection.
-          </p>
+          <p>2022/2026: Digital Creation for the "111-Totems" collection.</p>
         </div>
 
         <ScrollToTop />

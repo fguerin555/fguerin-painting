@@ -59,8 +59,9 @@ const FrancaisVisitors = () => {
 
             <p>
               La première phase, complétée, est la réalisation graphique
-              digitale plate virtuelle des 111 pièces. Dimension imprimable :
-              62x35 cm.
+              digitale plate virtuelle des 111 pièces. Impression sur aluminium.
+              Chaque pièce sera réalisée en édition limitée de cinq exemplaires
+              numérotés et signés.
             </p>
             <div className={styles.WorksButton}>
               <Link to="/Visitors">
@@ -70,10 +71,10 @@ const FrancaisVisitors = () => {
 
             <p>
               {" "}
-              La seconde phase est encore en cours de réalisation (actuellement
-              60 pièces sur 111) sous forme de représentation graphique 2D
-              (impression sur ®Forex 33x33 cm) de bas relief de céramique.
-              Chaque pièce sera tirée à cinq exemplaires numérotés et signés.
+              La seconde phase, encore en cours, consiste en l'impression des
+              totems en trompe l'oeil bas relief céramique. (impression sur
+              ®Forex 33x33 cm) Chaque pièce sera réalisée en édition limitée à
+              cinq exemplaires, numérotés et signés.
             </p>
             <div className={styles.WorksButton}>
               <Link to="/Ceramique">
@@ -89,12 +90,7 @@ const FrancaisVisitors = () => {
               numérotés et signés.
             </p>
 
-            <p>
-              Croyant fermement à la portée positive et à l'impact visuel
-              universel de ces totems, je n'exclus aucune des formes possibles
-              sous lesquelles le projet pourra se décliner : peintures murales,
-              tapisseries, néons, etc. Frédéric Guérin Novembre 2026
-            </p>
+            <p>Frédéric Guérin Novembre 2026</p>
 
             <p> Frédéric Guérin</p>
           </div>

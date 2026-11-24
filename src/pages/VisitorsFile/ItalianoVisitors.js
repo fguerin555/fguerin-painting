@@ -62,8 +62,9 @@ const ItalianoVisitors = () => {
 
             <p>
               La prima fase, già completata, consiste nella realizzazione
-              grafica digitale in piano dei 111 pezzi. Dimensioni stampabili:
-              62x35 cm.
+              grafica digitale in piano dei 111 pezzi. Stampabili su aluminio
+              intiratura limitata di cinque esemplari numerati e firmati.
+              tiratura massima cinque esemplari.
             </p>
             <div className={styles.WorksButton}>
               <Link to="/Visitors">
@@ -71,10 +72,10 @@ const ItalianoVisitors = () => {
               </Link>
             </div>
             <p>
-              La seconda fase - attualmente in corso di produzione - consiste in
-              una rappresentazione grafica 2D (stampata su ®Forex, 33x33 cm) di
-              bassorilievi in ​​ceramica. Di ogni pezzo verranno prodotti sei
-              esemplari, numerati e firmati.
+              La seconda fase, tuttora in corso, consiste nella stampa dei totem
+              in *trompe-l'œil* che riproducono un bassorilievo in ceramica.
+              (stampa su ®Forex, 33x33 cm) Ogni pezzo sarà realizzato in
+              tiratura limitata di cinque esemplari numerati e firmati.
             </p>
 
             <div className={styles.WorksButton}>

@@ -71,10 +71,7 @@ const ItalianoHome = () => {
             2012-2016 : Produzction of the "Museo Infinito", 1000 pieces oils on
             canvas of 14 x 9cm.
           </p>
-          <p>
-            2024: Produzione di 111 opere d'arte digitali per la collezione
-            "111-Totems".
-          </p>
+          <p>2022/2026: Produzione digitale per la collezione "111-Totems".</p>
         </div>
 
         <ScrollToTop />
