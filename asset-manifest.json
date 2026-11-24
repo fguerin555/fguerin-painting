@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fguerin-painting/static/css/main.0fd1cf50.css",
-    "main.js": "/fguerin-painting/static/js/main.d4c49bc8.js",
+    "main.js": "/fguerin-painting/static/js/main.8aacc6ea.js",
     "static/media/visitor 56.jpg": "/fguerin-painting/static/media/visitor 56.ff12823a00a69b3456ab.jpg",
     "static/media/ceramique1.png": "/fguerin-painting/static/media/ceramique1.b8d9716da86a0a26ab25.png",
     "static/media/ceramique39.png": "/fguerin-painting/static/media/ceramique39.6b89faa3722dbf148502.png",
@@ -246,10 +246,10 @@
     "static/media/MI392.jpg": "/fguerin-painting/static/media/MI392.397380cbb807f13d5a8b.jpg",
     "index.html": "/fguerin-painting/index.html",
     "main.0fd1cf50.css.map": "/fguerin-painting/static/css/main.0fd1cf50.css.map",
-    "main.d4c49bc8.js.map": "/fguerin-painting/static/js/main.d4c49bc8.js.map"
+    "main.8aacc6ea.js.map": "/fguerin-painting/static/js/main.8aacc6ea.js.map"
   },
   "entrypoints": [
     "static/css/main.0fd1cf50.css",
-    "static/js/main.d4c49bc8.js"
+    "static/js/main.8aacc6ea.js"
   ]
 }
