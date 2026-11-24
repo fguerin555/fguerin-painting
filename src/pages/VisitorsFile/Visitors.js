@@ -949,6 +949,10 @@ const Visitors = () => {
           <img src={imag89} alt="Visitors numero 89" />
           <p className={styles.transparentText}> ©Frédéric Guérin</p>
         </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Totem n°89 - Listen</p>
+        </div>
 
         <div className={styles.Image}>
           <img src={imag90} alt="Visitors numero 90" />
