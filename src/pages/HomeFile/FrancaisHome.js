@@ -27,11 +27,8 @@ const FrancaisHome = () => {
           </div>
         </div>
 
-        <p>Frederic Guerin</p>
-        <div className={styles.MailLink}>
-          <a href="mailto:fguerin555@gmail.com">fguerin555@gmail.com</a>
-        </div>
         <div>
+          <p>Frederic Guerin</p>
           <p>Né à Boulogne-Billancourt - France</p>
           <p>le 13 November 1959</p>
           <p>Vit en Toscane</p>
@@ -54,17 +51,17 @@ const FrancaisHome = () => {
           <p>
             2009: Exposition collective au Musée d'Art Contemporain de L'Aquila.
             <br />
-            "Falce e Martello Simboli di Ferro". Catalogo.
+            "Falce e Martello Simboli di Ferro". Catalogue.
           </p>
           <p>2009: Exposition collective à la “TAKEAWAYGALLERY”.Rome.</p>
           <p>
-            2010: Exposition collective itinérante “13 X 17” a cura di Philippe
-            Daverio e Jean Blanchaert.
+            2010: Exposition collective itinérante “13 X 17 sous la direction de
+            Philippe Daverio et Jean Blanchaert.
             <br />
             Biennale de Venise. Palais Fava. Bologne. Spazio d'Arte Alviti.
             Rome.
             <br />
-            Catalogo Edizione Rizzoli de Philippe Daverio et Jean Blanchaert
+            Catalogo Edizione Rizzoli par Philippe Daverio et Jean Blanchaert
           </p>
           <p>
             2010: Exposition collective “24 X 24 “ galleria “OPERA UNICA”.Rome.
@@ -79,6 +76,7 @@ const FrancaisHome = () => {
             2022/2026: Production d'Art Numérique pour la collection
             "111-Totems".
           </p>
+          <p>fguerin555@gmail.com</p>
         </div>
 
         <ScrollToTop />

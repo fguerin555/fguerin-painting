@@ -6,33 +6,33 @@
     justify-content: space-around;
   }
   .FrancaisMuseo button {
-    color: antiquewhite;
-    background-color: rgba(10, 49, 84, 0.574);
+    background-color: rgba(77, 58, 88, 0.574);
+    color: rgb(236, 206, 236);
     border-radius: 5px;
     font-size: 16px;
-    border: solid 2px #94e2ec;
+    border: solid 4px #94e2ec;
   }
   .FrancaisMuseo button:hover {
     color: #94e2ec;
     cursor: pointer;
   }
   .EnglishMuseo button {
-    color: antiquewhite;
-    background-color: rgba(10, 49, 84, 0.574);
+    background-color: rgba(77, 58, 88, 0.574);
+    color: rgb(236, 206, 236);
     border-radius: 5px;
     font-size: 16px;
-    border: solid 2px #94e2ec;
+    border: solid 4px #94e2ec;
   }
   .EnglishVMuseo button:hover {
     color: #94e2ec;
     cursor: pointer;
   }
   .ItalianoMuseo button {
-    color: antiquewhite;
-    background-color: rgba(10, 49, 84, 0.574);
+    background-color: rgba(77, 58, 88, 0.574);
+    color: rgb(236, 206, 236);
     border-radius: 5px;
     font-size: 16px;
-    border: solid 2px #94e2ec;
+    border: solid 4px #94e2ec;
   }
   .ItalianoMuseo button:hover {
     color: #94e2ec;

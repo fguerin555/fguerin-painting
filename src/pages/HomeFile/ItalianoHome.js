@@ -28,9 +28,7 @@ const ItalianoHome = () => {
         </div>
 
         <p>Frederic Guerin</p>
-        <div className={styles.MailLink}>
-          <a href="mailto:fguerin555@gmail.com">fguerin555@gmail.com</a>
-        </div>
+
         <div>
           <p>Nato a Boulogne-Billancourt - France</p>
           <p>il 13 November 1959</p>
@@ -52,26 +50,27 @@ const ItalianoHome = () => {
             <br />
             "Falce e Martello Simboli di Ferro". Catalogo.
           </p>
-          <p>2009: Group exhibition at “TAKEAWAYGALLERY”.Roma.</p>
+          <p>2009: Mostra collettiva at “TAKEAWAYGALLERY”.Roma.</p>
           <p>
-            2010: Traveling group exhibition “13 X 17” curated by Philippe
-            Daverio and Jean Blanchaert.
+            2010: Mostra collettiva itinerante “13 X 17” a cura di Philippe
+            Daverio et Jean Blanchaert.
             <br />
-            Venice Biennale. Palazzo Fava in Bologna. Alviti Art Space. Rome.
+            Biennale di Venezia. Palazzo Fava Bologna. Alviti Art Space. Rome.
             Catalog.
             <br />
-            Catalog Rizzoli Edition by Philippe Daverio and Jean Blanchaert
+            Catalog Rizzoli Edition Philippe Daverio e Jean Blanchaert
           </p>
           <p>
-            2010: Group exhibition “24 X 24 “ at gallery “OPERA UNICA”.Rome.
+            2010: Mostra collettiva “24 X 24 “ alla galleria “OPERA UNICA”.Rome.
             Catalogo.
           </p>
-          <p>2011: Group exhibition "24 X 24" Studio Claudio Abate.Rome</p>
+          <p>2011: Mostra collettiva "24 X 24" Studio Claudio Abate.Rome</p>
           <p>
-            2012-2016 : Produzction of the "Museo Infinito", 1000 pieces oils on
-            canvas of 14 x 9cm.
+            2012-2016 : Produzione del "Museo Infinito", 1000 pezzi olio su tela
+            14 x 9cm.
           </p>
           <p>2022/2026: Produzione digitale per la collezione "111-Totems".</p>
+          <p>fguerin555@gmail.com</p>
         </div>
 
         <ScrollToTop />

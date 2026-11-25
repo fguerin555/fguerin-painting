@@ -28,9 +28,7 @@ const EnglishHome = () => {
         </div>
 
         <p>Frederic Guerin</p>
-        <div className={styles.MailLink}>
-          <a href="mailto:fguerin555@gmail.com">fguerin555@gmail.com</a>
-        </div>
+
         <div>
           <p>Born in Boulogne-Billancourt - France</p>
           <p>on 13 November 1959</p>
@@ -78,6 +76,7 @@ const EnglishHome = () => {
             consisting of 1,000 oil-on-canvas pieces, each measuring 14 x 9 cm.
           </p>
           <p>2022/2026: Digital Creation for the "111-Totems" collection.</p>
+          <p>fguerin555@gmail.com</p>
         </div>
 
         <ScrollToTop />
