@@ -45,6 +45,8 @@ import imag37 from "../../assets/Ceramique/ceramique37.png";
 import imag38 from "../../assets/Ceramique/ceramique38.png";
 import imag39 from "../../assets/Ceramique/ceramique39.png";
 import imag40 from "../../assets/Ceramique/ceramique40.png";
+import imag41 from "../../assets/Ceramique/ceramique41.png";
+import imag42 from "../../assets/Ceramique/ceramique42.png";
 const Ceramique = () => {
   return (
     <div>
@@ -428,6 +430,24 @@ const Ceramique = () => {
         <div className={styles.nom}>
           {" "}
           <p>Totem n°40 - Baby One</p>
+        </div>
+
+        <div className={styles.Image}>
+          <img src={imag41} alt="Visitors numero 41" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Totem n°41 - Baby two</p>
+        </div>
+
+        <div className={styles.Image}>
+          <img src={imag42} alt="Visitors numero 42" />
+          <p className={styles.transparentText}> ©Frédéric Guérin</p>
+        </div>
+        <div className={styles.nom}>
+          {" "}
+          <p>Totem n°42 - Pet</p>
         </div>
       </div>
 

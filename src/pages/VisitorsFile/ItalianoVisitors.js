@@ -91,12 +91,6 @@ const ItalianoVisitors = () => {
               realizzato in sei esemplari, numerati e firmati.
             </p>
 
-            <p>
-              Credendo fermamente nella portata positiva e nell'impatto visivo
-              universale di questi totem, non escludo alcuna delle possibili
-              forme in cui il progetto potrà declinarsi, murales, arazzi, neon,
-              ecc…
-            </p>
             <p> Frédéric Guérin</p>
           </div>
         </div>

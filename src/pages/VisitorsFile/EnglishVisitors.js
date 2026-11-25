@@ -85,11 +85,6 @@ const EnglishVisitors = () => {
               in colored ceramic. Dimensions: 30 x 30 cm. Each piece will be
               produced in a limited edition of five, all numbered and signed.
             </p>
-            <p>
-              Firmly believing in the positive reach and universal visual impact
-              of these totems, I do not rule out any of the potential forms the
-              project might take: murals, tapestries, neon installations, etc.
-            </p>
             <p> Frédéric Guérin</p>
           </div>
         </div>

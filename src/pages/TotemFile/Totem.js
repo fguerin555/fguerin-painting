@@ -5,7 +5,6 @@ import styles from "./Totem.module.css";
 import ScrollToTop from "../../components/ScrollToTop";
 import BackButton from "../../components/BackButton";
 import imag1 from "../../assets/Visitors-img/visitor 1 Open.jpg";
-
 const Totem = () => {
   return (
     <div>

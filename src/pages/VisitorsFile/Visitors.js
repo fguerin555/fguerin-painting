@@ -303,7 +303,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°17 -Mask</p>
+          <p>Totem n°17 - Mask</p>
         </div>
 
         <div className={styles.Image}>
@@ -375,7 +375,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°25 -Vegan</p>
+          <p>Totem n°25 - Vegan</p>
         </div>
 
         <div className={styles.Image}>
@@ -1059,6 +1059,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
+          git ad
           <p>Totem n°101 - In the green</p>
         </div>
 
@@ -1077,7 +1078,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°103 - Master 1</p>
+          <p>Totem n°103 - Master I</p>
         </div>
 
         <div className={styles.Image}>
@@ -1086,7 +1087,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°104 - Master 2</p>
+          <p>Totem n°104 - Master II</p>
         </div>
 
         <div className={styles.Image}>
@@ -1095,7 +1096,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°105 - Master 3</p>
+          <p>Totem n°105 - Master III</p>
         </div>
 
         <div className={styles.Image}>
