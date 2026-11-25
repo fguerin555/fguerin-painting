@@ -834,7 +834,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°76 - Hermit</p>
+          <p>Totem n°76 - Yeti mood</p>
         </div>
 
         <div className={styles.Image}>
@@ -1068,7 +1068,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°102 - Baby is craying</p>
+          <p>Totem n°102 - Cry baby cry!</p>
         </div>
 
         <div className={styles.Image}>
