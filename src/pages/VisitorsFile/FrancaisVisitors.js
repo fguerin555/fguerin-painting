@@ -32,11 +32,36 @@ const FrancaisVisitors = () => {
             <p>111 Totems</p>{" "}
           </div>
 
-          <div className={styles.MailLink}>
-            <a href="mailto:fguerin555@gmail.com">fguerin555@gmail.com</a>
-          </div>
-
           <div>
+            <p>
+              Phase 1: Réalisation numérique graphique à plat des 111 Totems.
+              Imprimables sur aluminium. tirage limité à 5 exemplaires.
+            </p>
+            <div className={styles.WorksButton}>
+              <Link to="/Visitors">
+                <button>Aluminiums</button>
+              </Link>
+            </div>
+            <p>. . . . . . . . . . . . . . . . . </p>
+
+            <p>
+              {" "}
+              Phase 2: impression des totems en *trompe-l'œil* bas-relief
+              céramique. (impression sur ®Forex, 33x33 cm) tirage limité à 5
+              exemplaires.
+            </p>
+            <div className={styles.WorksButton}>
+              <Link to="/Ceramique">
+                <button>Ceramics</button>
+              </Link>
+            </div>
+            <p>. . . . . . . . . . . . . . . </p>
+
+            <p>
+              Phase3 : Réalisation matérielle des bas-reliefs en céramique
+              colorée. Dimensions : 30 x 30 cm. tirage limité à 5 exemplaires.
+            </p>
+            <p>. . . . . . . . . . . . . . . .............................</p>
             <p>
               Tendant vers un geste unique et spontané pour fixer l’état fugitif
               de l’esprit, pour en fixer rapidement la vision, j’ai choisi un
@@ -53,41 +78,6 @@ const FrancaisVisitors = () => {
               court à la forme et à l’expression brute, le signifiant totémique
               et le signifié iconique ont, à chaque étape, suivi l’évolution
               naturelle de l’oeuvre totale conçue avec frénésie et constance.
-            </p>
-
-            <p>Le projet de 111 pièces est réparti en plusieurs phases</p>
-
-            <p>
-              La première phase, complétée, est la réalisation graphique
-              digitale plate virtuelle des 111 pièces. Impression sur aluminium.
-              Chaque pièce sera réalisée en édition limitée de cinq exemplaires
-              numérotés et signés.
-            </p>
-            <div className={styles.WorksButton}>
-              <Link to="/Visitors">
-                <button>Première phase - Oeuvres</button>
-              </Link>
-            </div>
-
-            <p>
-              {" "}
-              La seconde phase, encore en cours, consiste en l'impression des
-              totems en trompe l'oeil bas relief céramique. (impression sur
-              ®Forex 33x33 cm) Chaque pièce sera réalisée en édition limitée à
-              cinq exemplaires, numérotés et signés.
-            </p>
-            <div className={styles.WorksButton}>
-              <Link to="/Ceramique">
-                <button>Seconde Phase - Oeuvres</button>
-              </Link>
-            </div>
-
-            <p>
-              La troisième phase, prévue pour les dix premières pièces en 2027,
-              et sur commande pour chaque pièce de la collection, sera la
-              réalisation matérielle des bas reliefs en céramique colorée.
-              Dimension 30x30 cm. Chaque pièce sera réalisée en cinq exemplaires
-              numérotés et signés.
             </p>
 
             <p>Frédéric Guérin Novembre 2026</p>

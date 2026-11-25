@@ -71,8 +71,8 @@
   .WorksButton button {
     display: flex;
     align-items: center;
-    color: antiquewhite;
-    background-color: rgba(10, 49, 84, 0.574);
+    color: rgba(139, 117, 27, 0.601);
+    background-color: rgba(149, 165, 178, 0.574);
     border-radius: 5px;
     font-size: 20px;
     border: solid 2px #94e2ec;

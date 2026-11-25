@@ -32,11 +32,38 @@ const EnglishVisitors = () => {
             <p>111 Totems</p>{" "}
           </div>
 
-          <div className={styles.MailLink}>
+          {/* <div className={styles.MailLink}>
             <a href="mailto:fguerin555@gmail.com">fguerin555@gmail.com</a>
-          </div>
+          </div> */}
 
           <div>
+            <p>
+              Phase 1: completed, digital flat graphic of 111 totems. Printable
+              on aluminum; Limited edition of 5 copies.
+            </p>
+            <div className={styles.WorksButton}>
+              <Link to="/Visitors">
+                <button>Aluminiums</button>
+              </Link>
+            </div>
+            <p>. . . . . . . . . . . . . . . . . </p>
+            <p>
+              Phase 2: Printing of the *trompe-l'œil* bas-relief ceramic-style
+              totems. (Printed on ®Forex, 33x33 cm; limited edition of 5 copies
+              maximum.)
+            </p>
+            <div className={styles.WorksButton}>
+              <Link to="/Ceramique">
+                <button>Ceramics</button>
+              </Link>
+            </div>
+            <p>. . . . . . . . . . . . . . . </p>
+
+            <p>
+              Phase 3: Production of the colored ceramic bas-reliefs.
+              Dimensions: 30x30 cm. Maximum edition of 5 pieces.
+            </p>
+            <p>. . . . . . . . . . . . . . . .............................</p>
             <p>
               Striving for a singular, spontaneous gesture to capture the
               fleeting state of the mind—to swiftly fix a vision—I opted for a
@@ -55,35 +82,6 @@ const EnglishVisitors = () => {
               signified followed, at every stage, the natural evolution of the
               body of work as a whole—a collection conceived with both frenzy
               and steadfastness.
-            </p>
-            <p>The 111-piece project is divided into several phases</p>
-            <p>
-              The first phase, now complete, consists of the creation of flat,
-              virtual digital graphic designs for the 111 pieces. Printable on
-              alumium.
-            </p>
-            <div className={styles.WorksButton}>
-              <Link to="/Visitors">
-                <button>First Phase - Art Works</button>
-              </Link>
-            </div>
-            <p>
-              The second phase, currently underway, involves printing the totems
-              as *trompe-l'œil* ceramic bas-reliefs (printed on Forex®; 33 x 33
-              cm). Each piece will be produced in a limited edition of five,
-              numbered and signed.
-            </p>
-            <div className={styles.WorksButton}>
-              <Link to="/Ceramique">
-                <button>Second Phase - Art Works</button>
-              </Link>
-            </div>
-            <p>
-              The third phase, scheduled to begin with the first ten pieces in
-              2027—and available by commission for any piece in the
-              collection—will involve the physical creation of the bas-reliefs
-              in colored ceramic. Dimensions: 30 x 30 cm. Each piece will be
-              produced in a limited edition of five, all numbered and signed.
             </p>
             <p> Frédéric Guérin</p>
           </div>

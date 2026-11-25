@@ -159,7 +159,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°1 - Ancestral</p>
+          <p>n°1 - Ancestral</p>
         </div>
 
         <div className={styles.Image}>
@@ -168,7 +168,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°2 - C'est comme ça</p>
+          <p>n°2 - C'est comme ça</p>
         </div>
 
         <div className={styles.Image}>
@@ -177,7 +177,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°3 - Alive</p>
+          <p>n°3 - Alive</p>
         </div>
 
         <div className={styles.Image}>
@@ -186,7 +186,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°4 - Magari</p>
+          <p>n°4 - Magari</p>
         </div>
 
         <div className={styles.Image}>
@@ -195,7 +195,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°5 - Stand</p>
+          <p>n°5 - Stand</p>
         </div>
 
         <div className={styles.Image}>
@@ -204,7 +204,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°6 - Ready for the manna</p>
+          <p>n°6 - Ready for the manna</p>
         </div>
 
         <div className={styles.Image}>
@@ -213,7 +213,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°7 - Pick up a signal</p>
+          <p>n°7 - Pick up a signal</p>
         </div>
 
         <div className={styles.Image}>
@@ -222,7 +222,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°8 -Awake</p>
+          <p>n°8 -Awake</p>
         </div>
 
         <div className={styles.Image}>
@@ -231,7 +231,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°9 - Grandmaster</p>
+          <p>n°9 - Grandmaster</p>
         </div>
 
         <div className={styles.Image}>
@@ -240,7 +240,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°10 - NPS Shamana</p>
+          <p>n°10 - NPS Shamana</p>
         </div>
 
         <div className={styles.Image}>
@@ -249,7 +249,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°11 - Funky</p>
+          <p>n°11 - Funky</p>
         </div>
 
         <div className={styles.Image}>
@@ -258,7 +258,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°12 - Desou Dance</p>
+          <p>n°12 - Desou Dance</p>
         </div>
 
         <div className={styles.Image}>
@@ -267,7 +267,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°13 - Ambra</p>
+          <p>n°13 - Ambra</p>
         </div>
 
         <div className={styles.Image}>
@@ -276,7 +276,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°14 - Bip!</p>
+          <p>n°14 - Bip!</p>
         </div>
 
         <div className={styles.Image}>
@@ -285,7 +285,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°15 - Shakkra</p>
+          <p>n°15 - Shakkra</p>
         </div>
 
         <div className={styles.Image}>
@@ -294,7 +294,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°16 - Don't shoot!</p>
+          <p>n°16 - Don't shoot!</p>
         </div>
 
         <div className={styles.Image}>
@@ -303,7 +303,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°17 - Mask</p>
+          <p>n°17 - Mask</p>
         </div>
 
         <div className={styles.Image}>
@@ -312,7 +312,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°18 - Shooted</p>
+          <p>n°18 - Shooted</p>
         </div>
 
         <div className={styles.Image}>
@@ -321,7 +321,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°19 - Choice</p>
+          <p>n°19 - Choice</p>
         </div>
 
         <div className={styles.Image}>
@@ -330,7 +330,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°20 - Futur</p>
+          <p>n°20 - Futur</p>
         </div>
 
         <div className={styles.Image}>
@@ -339,7 +339,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°21 - OK</p>
+          <p>n°21 - OK</p>
         </div>
 
         <div className={styles.Image}>
@@ -348,7 +348,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°22 - Master Kamae</p>
+          <p>n°22 - Master Kamae</p>
         </div>
 
         <div className={styles.Image}>
@@ -357,7 +357,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°23 - Buzz</p>
+          <p>n°23 - Buzz</p>
         </div>
 
         <div className={styles.Image}>
@@ -366,7 +366,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°24 - Green kamae</p>
+          <p>n°24 - Green kamae</p>
         </div>
 
         <div className={styles.Image}>
@@ -375,7 +375,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°25 - Vegan</p>
+          <p>n°25 - Vegan</p>
         </div>
 
         <div className={styles.Image}>
@@ -384,7 +384,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°26 - Ten</p>
+          <p>n°26 - Ten</p>
         </div>
 
         <div className={styles.Image}>
@@ -393,7 +393,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°27 - Feekat</p>
+          <p>n°27 - Feekat</p>
         </div>
 
         <div className={styles.Image}>
@@ -402,7 +402,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°28 - La Source</p>
+          <p>n°28 - La Source</p>
         </div>
 
         <div className={styles.Image}>
@@ -411,7 +411,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°29 - Chocolat</p>
+          <p>n°29 - Chocolat</p>
         </div>
 
         <div className={styles.Image}>
@@ -420,7 +420,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°30 - Seven</p>
+          <p>n°30 - Seven</p>
         </div>
 
         <div className={styles.Image}>
@@ -429,7 +429,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°31 - Five</p>
+          <p>n°31 - Five</p>
         </div>
 
         <div className={styles.Image}>
@@ -438,7 +438,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°32 - Atlas</p>
+          <p>n°32 - Atlas</p>
         </div>
 
         <div className={styles.Image}>
@@ -447,7 +447,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°33 - Otto</p>
+          <p>n°33 - Otto</p>
         </div>
 
         <div className={styles.Image}>
@@ -456,7 +456,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°34 - Void</p>
+          <p>n°34 - Void</p>
         </div>
 
         <div className={styles.Image}>
@@ -465,7 +465,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°35 - You know</p>
+          <p>n°35 - You know</p>
         </div>
 
         <div className={styles.Image}>
@@ -474,7 +474,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°36 - Déchiré</p>
+          <p>n°36 - Déchiré</p>
         </div>
 
         <div className={styles.Image}>
@@ -483,7 +483,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°37 - Gaming</p>
+          <p>n°37 - Gaming</p>
         </div>
 
         <div className={styles.Image}>
@@ -492,7 +492,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°38 - Visitor</p>
+          <p>n°38 - Visitor</p>
         </div>
 
         <div className={styles.Image}>
@@ -501,7 +501,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°39 - Speaking</p>
+          <p>n°39 - Speaking</p>
         </div>
 
         <div className={styles.Image}>
@@ -510,7 +510,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°40 - Baby One</p>
+          <p>n°40 - Baby One</p>
         </div>
 
         <div className={styles.Image}>
@@ -519,7 +519,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°41 - Baby two</p>
+          <p>n°41 - Baby two</p>
         </div>
 
         <div className={styles.Image}>
@@ -528,7 +528,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°42 - Pet</p>
+          <p>n°42 - Pet</p>
         </div>
 
         <div className={styles.Image}>
@@ -537,7 +537,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°43 - Doctor</p>
+          <p>n°43 - Doctor</p>
         </div>
 
         <div className={styles.Image}>
@@ -546,7 +546,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°44 - The manna</p>
+          <p>n°44 - The manna</p>
         </div>
 
         <div className={styles.Image}>
@@ -555,7 +555,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°45 - Touché.e</p>
+          <p>n°45 - Touché.e</p>
         </div>
 
         <div className={styles.Image}>
@@ -564,7 +564,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°46 - Coffee</p>
+          <p>n°46 - Coffee</p>
         </div>
 
         <div className={styles.Image}>
@@ -573,7 +573,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°47 - Call me</p>
+          <p>n°47 - Call me</p>
         </div>
 
         <div className={styles.Image}>
@@ -582,7 +582,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°48 - Juggling</p>
+          <p>n°48 - Juggling</p>
         </div>
 
         <div className={styles.Image}>
@@ -591,7 +591,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°49 - Waiting for a star</p>
+          <p>n°49 - Waiting for a star</p>
         </div>
 
         <div className={styles.Image}>
@@ -600,7 +600,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°50 - Don't worry</p>
+          <p>n°50 - Don't worry</p>
         </div>
 
         <div className={styles.Image}>
@@ -609,7 +609,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°51 - Golden</p>
+          <p>n°51 - Golden</p>
         </div>
 
         <div className={styles.Image}>
@@ -618,7 +618,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°52 - So what?!</p>
+          <p>n°52 - So what?!</p>
         </div>
 
         <div className={styles.Image}>
@@ -627,7 +627,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°53 - Right</p>
+          <p>n°53 - Right</p>
         </div>
 
         <div className={styles.Image}>
@@ -636,7 +636,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°54 - Elevation</p>
+          <p>n°54 - Elevation</p>
         </div>
 
         <div className={styles.Image}>
@@ -645,7 +645,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°55 - Tripping</p>
+          <p>n°55 - Tripping</p>
         </div>
 
         <div className={styles.Image}>
@@ -654,7 +654,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°56 - Jumping</p>
+          <p>n°56 - Jumping</p>
         </div>
 
         <div className={styles.Image}>
@@ -663,7 +663,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°57 - Praying</p>
+          <p>n°57 - Praying</p>
         </div>
 
         <div className={styles.Image}>
@@ -672,7 +672,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°58 - Looking for</p>
+          <p>n°58 - Looking for</p>
         </div>
 
         <div className={styles.Image}>
@@ -681,7 +681,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°59 - Princess</p>
+          <p>n°59 - Princess</p>
         </div>
 
         <div className={styles.Image}>
@@ -690,7 +690,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°60 - Black knight</p>
+          <p>n°60 - Black knight</p>
         </div>
 
         <div className={styles.Image}>
@@ -699,7 +699,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°61 - Lawyer</p>
+          <p>n°61 - Lawyer</p>
         </div>
 
         <div className={styles.Image}>
@@ -708,7 +708,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°62 - Electra</p>
+          <p>n°62 - Electra</p>
         </div>
 
         <div className={styles.Image}>
@@ -717,7 +717,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°63 - On/Off</p>
+          <p>n°63 - On/Off</p>
         </div>
 
         <div className={styles.Image}>
@@ -726,7 +726,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°64 - Savana</p>
+          <p>n°64 - Savana</p>
         </div>
 
         <div className={styles.Image}>
@@ -735,7 +735,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°65 - Papessa</p>
+          <p>n°65 - Papessa</p>
         </div>
 
         <div className={styles.Image}>
@@ -744,7 +744,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°66 - Guru mood</p>
+          <p>n°66 - Guru mood</p>
         </div>
 
         <div className={styles.Image}>
@@ -753,7 +753,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°67 - Prince Kamae</p>
+          <p>n°67 - Prince Kamae</p>
         </div>
 
         <div className={styles.Image}>
@@ -762,7 +762,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°68 - Narcissus</p>
+          <p>n°68 - Narcissus</p>
         </div>
 
         <div className={styles.Image}>
@@ -771,7 +771,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°69 - Warning</p>
+          <p>n°69 - Warning</p>
         </div>
 
         <div className={styles.Image}>
@@ -780,7 +780,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°70 - Bad boy</p>
+          <p>n°70 - Bad boy</p>
         </div>
 
         <div className={styles.Image}>
@@ -789,7 +789,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°71 - Again!</p>
+          <p>n°71 - Again!</p>
         </div>
 
         <div className={styles.Image}>
@@ -798,7 +798,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°72 - Black angel</p>
+          <p>n°72 - Black angel</p>
         </div>
 
         <div className={styles.Image}>
@@ -807,7 +807,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°73 - White angel</p>
+          <p>n°73 - White angel</p>
         </div>
 
         <div className={styles.Image}>
@@ -816,7 +816,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°74 - Sugar Blue</p>
+          <p>n°74 - Sugar Blue</p>
         </div>
 
         <div className={styles.Image}>
@@ -825,7 +825,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°75 - Ananine</p>
+          <p>n°75 - Ananine</p>
         </div>
 
         <div className={styles.Image}>
@@ -834,7 +834,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°76 - Yeti mood</p>
+          <p>n°76 - Yeti mood</p>
         </div>
 
         <div className={styles.Image}>
@@ -843,7 +843,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°77 - Flying</p>
+          <p>n°77 - Flying</p>
         </div>
 
         <div className={styles.Image}>
@@ -852,7 +852,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°78 - Lost</p>
+          <p>n°78 - Lost</p>
         </div>
 
         <div className={styles.Image}>
@@ -861,7 +861,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°79 - Rebound</p>
+          <p>n°79 - Rebound</p>
         </div>
 
         <div className={styles.Image}>
@@ -870,7 +870,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°80 - Blue fair</p>
+          <p>n°80 - Blue fair</p>
         </div>
 
         <div className={styles.Image}>
@@ -879,7 +879,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°81 - Cocaine mood</p>
+          <p>n°81 - Cocaine mood</p>
         </div>
 
         <div className={styles.Image}>
@@ -888,7 +888,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°82 - X dimension</p>
+          <p>n°82 - X dimension</p>
         </div>
 
         <div className={styles.Image}>
@@ -897,7 +897,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°83 - Captain</p>
+          <p>n°83 - Captain</p>
         </div>
 
         <div className={styles.Image}>
@@ -906,7 +906,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°84 - Politician</p>
+          <p>n°84 - Politician</p>
         </div>
 
         <div className={styles.Image}>
@@ -915,7 +915,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°85 - Black</p>
+          <p>n°85 - Black</p>
         </div>
 
         <div className={styles.Image}>
@@ -924,7 +924,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°86 - Eatable</p>
+          <p>n°86 - Eatable</p>
         </div>
 
         <div className={styles.Image}>
@@ -933,7 +933,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°87 - Hot freezing</p>
+          <p>n°87 - Hot freezing</p>
         </div>
 
         <div className={styles.Image}>
@@ -942,7 +942,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°88 - Listen!</p>
+          <p>n°88 - Listen!</p>
         </div>
 
         <div className={styles.Image}>
@@ -951,7 +951,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°89 - Listen</p>
+          <p>n°89 - Listen</p>
         </div>
 
         <div className={styles.Image}>
@@ -960,7 +960,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°90 - Gatherer</p>
+          <p>n°90 - Gatherer</p>
         </div>
 
         <div className={styles.Image}>
@@ -969,7 +969,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°91 - Hunter</p>
+          <p>n°91 - Hunter</p>
         </div>
 
         <div className={styles.Image}>
@@ -978,7 +978,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°92 - Zen</p>
+          <p>n°92 - Zen</p>
         </div>
 
         <div className={styles.Image}>
@@ -987,7 +987,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°93 - Cotton</p>
+          <p>n°93 - Cotton</p>
         </div>
 
         <div className={styles.Image}>
@@ -996,7 +996,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°94 - Down</p>
+          <p>n°94 - Down</p>
         </div>
 
         <div className={styles.Image}>
@@ -1005,7 +1005,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°95 - Not spring</p>
+          <p>n°95 - Not spring</p>
         </div>
 
         <div className={styles.Image}>
@@ -1014,7 +1014,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°96 - Dancing pills</p>
+          <p>n°96 - Dancing pills</p>
         </div>
 
         <div className={styles.Image}>
@@ -1023,7 +1023,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°97 - Rain dance</p>
+          <p>n°97 - Rain dance</p>
         </div>
 
         <div className={styles.Image}>
@@ -1032,7 +1032,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°98 - Red savana</p>
+          <p>n°98 - Red savana</p>
         </div>
 
         <div className={styles.Image}>
@@ -1041,7 +1041,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°99 - Initiated</p>
+          <p>n°99 - Initiated</p>
         </div>
 
         <div className={styles.Image}>
@@ -1050,7 +1050,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°100 - Bones</p>
+          <p>n°100 - Bones</p>
         </div>
 
         <div className={styles.Image}>
@@ -1060,7 +1060,7 @@ const Visitors = () => {
         <div className={styles.nom}>
           {" "}
           git ad
-          <p>Totem n°101 - In the green</p>
+          <p>n°101 - In the green</p>
         </div>
 
         <div className={styles.Image}>
@@ -1069,7 +1069,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°102 - Cry baby cry!</p>
+          <p>n°102 - Cry baby cry!</p>
         </div>
 
         <div className={styles.Image}>
@@ -1078,7 +1078,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°103 - Master I</p>
+          <p>n°103 - Master I</p>
         </div>
 
         <div className={styles.Image}>
@@ -1087,7 +1087,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°104 - Master II</p>
+          <p>n°104 - Master II</p>
         </div>
 
         <div className={styles.Image}>
@@ -1096,7 +1096,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°105 - Master III</p>
+          <p>n°105 - Master III</p>
         </div>
 
         <div className={styles.Image}>
@@ -1105,7 +1105,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°106 - Mat</p>
+          <p>n°106 - Mat</p>
         </div>
 
         <div className={styles.Image}>
@@ -1114,7 +1114,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totemn°107 - Queen</p>
+          <p>n°107 - Queen</p>
         </div>
 
         <div className={styles.Image}>
@@ -1123,7 +1123,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°108 - Saoul</p>
+          <p>n°108 - Saoul</p>
         </div>
 
         <div className={styles.Image}>
@@ -1132,7 +1132,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°109 - Fabric</p>
+          <p>n°109 - Fabric</p>
         </div>
 
         <div className={styles.Image}>
@@ -1141,7 +1141,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°110- Good bye </p>
+          <p>n°110- Good bye </p>
         </div>
 
         <div className={styles.Image}>
@@ -1150,7 +1150,7 @@ const Visitors = () => {
         </div>
         <div className={styles.nom}>
           {" "}
-          <p>Totem n°111 - Quantum</p>
+          <p>n°111 - Quantum</p>
         </div>
       </div>
 

@@ -32,6 +32,16 @@ const Totem = () => {
       <div className={styles.imgOpen}>
         <img src={imag1} alt="totem1" />
       </div>
+      <div className={styles.WorksButtonAlum}>
+        <Link to="/Visitors">
+          <button>Aluminiums</button>
+        </Link>
+      </div>
+      <div className={styles.WorksButtonCera}>
+        <Link to="/Ceramique">
+          <button>Ceramics</button>
+        </Link>
+      </div>
       <div>
         <ScrollToTop />
         <BackButton />

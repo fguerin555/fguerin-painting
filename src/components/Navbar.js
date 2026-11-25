@@ -17,7 +17,7 @@ const Navbar = () => {
           <Link to="/Museo">Museo Infinito</Link>
         </li>
         <li>
-          <Link to="/Totem">Totems</Link>
+          <Link to="/EnglishVisitors">Totems</Link>
         </li>
       </ul>
     </nav>

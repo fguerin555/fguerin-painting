@@ -32,11 +32,34 @@ const ItalianoVisitors = () => {
             <p>111 Totems</p>{" "}
           </div>
 
-          <div className={styles.MailLink}>
-            <a href="mailto:fguerin555@gmail.com">fguerin555@gmail.com</a>
-          </div>
-
           <div>
+            <p>
+              Fase 1: completata, consiste nella realizzazione grafica digitale
+              in piano dei 111 Totem. Stampabili su aluminio. tiratura massima 5
+              esemplari.
+            </p>
+            <div className={styles.WorksButton}>
+              <Link to="/Visitors">
+                <button>Aluminiums</button>
+              </Link>
+            </div>
+            <p>. . . . . . . . . . . . . . . . . </p>
+            <p>
+              Fase 2: stampa dei totem in *trompe-l'œil* bassorilievo ceramica.
+              (stampa su ®Forex, 33x33 cm) tiratura massima 5 esemplari.
+            </p>
+
+            <div className={styles.WorksButton}>
+              <Link to="/Ceramique">
+                <button>Ceramics</button>
+              </Link>
+            </div>
+            <p>. . . . . . . . . . . . . . . </p>
+            <p>
+              Fase 3: Produzione materiale dei bassorilievi in ​​ceramica
+              colorata. Dimensioni: 30x30 cm. tiratura massima 5 esemplari.
+            </p>
+            <p>. . . . . . . . . . . . . . . .............................</p>
             <p>
               Tendendo verso un gesto unico e spontaneo per catturare lo stato
               fugace della mente – per fissarne rapidamente la visione – ho
@@ -56,39 +79,6 @@ const ItalianoVisitors = () => {
               totemico e il significato iconico hanno seguito, in ogni fase,
               l’evoluzione naturale di un corpus di lavori concepito con
               frenesia e costanza.
-            </p>
-
-            <p>Il progetto di 111 pezzi è suddiviso in diverse fasi</p>
-
-            <p>
-              La prima fase, già completata, consiste nella realizzazione
-              grafica digitale in piano dei 111 pezzi. Stampabili su aluminio
-              intiratura limitata di cinque esemplari numerati e firmati.
-              tiratura massima cinque esemplari.
-            </p>
-            <div className={styles.WorksButton}>
-              <Link to="/Visitors">
-                <button>Prima Fase - Opere</button>
-              </Link>
-            </div>
-            <p>
-              La seconda fase, tuttora in corso, consiste nella stampa dei totem
-              in *trompe-l'œil* che riproducono un bassorilievo in ceramica.
-              (stampa su ®Forex, 33x33 cm) Ogni pezzo sarà realizzato in
-              tiratura limitata di cinque esemplari numerati e firmati.
-            </p>
-
-            <div className={styles.WorksButton}>
-              <Link to="/Ceramique">
-                <button>Seconda Fase - Opere</button>
-              </Link>
-            </div>
-            <p>
-              La terza fase, prevista per i primi dieci pezzi nel 2027 – e
-              disponibile su ordinazione per ogni elemento della collezione –
-              consisterà nella realizzazione materiale dei bassorilievi in
-              ​​ceramica colorata. Dimensioni: 30x30 cm. Ogni pezzo sarà
-              realizzato in sei esemplari, numerati e firmati.
             </p>
 
             <p> Frédéric Guérin</p>

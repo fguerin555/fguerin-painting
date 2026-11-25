@@ -32,48 +32,51 @@ const Home = () => {
           <a href="mailto:fguerin555@gmail.com">fguerin555@gmail.com</a>
         </div>
         <div>
-          <p>Nato a Boulogne-Billancourt - France</p>
-          <p>il 13 November 1959</p>
-          <p>Vive in Toscana </p>
-          <p>Studi: Liceo classico</p>
-          <p>2004 : Mostra personale a “L’IMPRONTA”. Roma.</p>
+          <p>Né à Boulogne-Billancourt - France</p>
+          <p>le 13 November 1959</p>
+          <p>Vit en Toscane</p>
+          <p>Etudes: Lycée Classique</p>
           <p>
-            2005: Mostra personnale al “VECCHIO FRANTOIO”.
+            2004 : Exposition personnelle à "L’IMPRONTA" - Amelia Buzzi-Puccini.
+            Rome.
+          </p>
+          <p>
+            2005: Exposition personnelle au “VECCHIO FRANTOIO”.
             <br />
-            Capalbio GR.{" "}
+            Capalbio GR.
           </p>
-          <p>2006: Mostra personnale allo “ZOE SPAZIO ARTE”. Roma. </p>
+          <p> 2006: Exposition personnelle à “ZOE SPAZIO ARTE”. Rome.</p>
           <p>
-            2007: Mostra collettiva a "L'IMPRONTA" - Amelia Buzzi-Puccini. Roma.
+            2007: Exposition collective à "L'IMPRONTA" - Amelia Buzzi-Puccini.
+            Rome.
           </p>
-          <p>2008: Mostra personnale alla Galleria Horti Lamiani. Roma.</p>
+          <p>2008: Exposition personnelle à la Galerie Horti Lamiani. Rome.</p>
           <p>
-            2009: Mostra collettiva al Museo d'Arte Contemporanea di l'Aquila.
+            2009: Exposition collective au Musée d'Art Contemporain de L'Aquila.
             <br />
             "Falce e Martello Simboli di Ferro". Catalogo.
           </p>
-          <p>2009: Mostra collettiva alla “TAKEAWAYGALLERY”.Roma.</p>
+          <p>2009: Exposition collective à la “TAKEAWAYGALLERY”.Rome.</p>
           <p>
-            2010: Mostra collettiva itinerante “13 X 17” a cura di Philippe
+            2010: Exposition collective itinérante “13 X 17” a cura di Philippe
             Daverio e Jean Blanchaert.
             <br />
-            Biennale di Venezia. Palazzo Fava di Bologna. Spazio d'Arte
-            Alviti.Roma.
+            Biennale de Venise. Palais Fava. Bologne. Spazio d'Arte Alviti.
+            Rome.
             <br />
-            Catalogo Edizione Rizzoli a cura di Philippe Daverio e Jean
-            Blanchaert
+            Catalogo Edizione Rizzoli de Philippe Daverio et Jean Blanchaert
           </p>
           <p>
-            2010: Mostra collettiva “24 X 24 “ galleria “OPERA UNICA”.Roma.
-            Catalogo.
+            2010: Exposition collective “24 X 24 “ galleria “OPERA UNICA”.Rome.
+            Catalogue.
           </p>
-          <p>2011: Mostra collettiva "24 X 24" Studio Claudio Abate.Roma</p>
+          <p>2011: Exposition collective "24 X 24" Studio Claudio Abate.Rome</p>
           <p>
-            2012-2016 : Produzione del "Museo Infinito", 1000 pezzi oli su tela
-            di 14 x 9cm.
+            2012-2016 : Production du "Museo Infinito", 1000 pièces huile sur
+            toile de 14 x 9cm.
           </p>
           <p>
-            2022: Produzione Arte Digitale di 111 pezzi par la collezione
+            2022/2026: Production d'Art Numérique pour la collection
             "111-Totems".
           </p>
         </div>

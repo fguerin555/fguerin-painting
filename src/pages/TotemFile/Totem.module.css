@@ -109,6 +109,38 @@
   margin-bottom: 0 !important;
   margin-top: 20px;
 }
+.WorksButtonAlum button {
+  .WorksButtonAlum button {
+    position: fixed;
+    top: 16px; /* distance depuis le haut de la page */
+    right: 16px; /* distance depuis la droite (ou utilise left: 16px pour la gauche) */
+    z-index: 1000; /* passe au-dessus des autres éléments */
+
+    display: flex;
+    align-items: center;
+    color: rgba(139, 117, 27, 0.601);
+    background-color: rgba(149, 165, 178, 0.574);
+    border-radius: 5px;
+    font-size: 20px;
+    border: solid 2px #94e2ec;
+  }
+  /* Tes styles existants */
+  display: flex;
+  align-items: center;
+  color: rgba(139, 117, 27, 0.601);
+  background-color: rgba(149, 165, 178, 0.574);
+  border-radius: 5px;
+  font-size: 20px;
+  border: solid 2px #94e2ec;
+}
+
+.WorksButtonAlum a {
+  text-decoration: none;
+}
+.WorksButtonAlum button:hover {
+  color: #94e2ec;
+  cursor: pointer;
+}
 @media (max-width: 1224px) {
   .ImagesContainer .Image p {
     font-size: 25px;
