@@ -80,7 +80,9 @@ const FrancaisHome = () => {
             Décembre 2026: Expo collective "Un Opera, una coppia, un lavoro.
             Gallerie "Takeaway Gallery Rome.
           </p>
-          <p>fguerin555@gmail.com</p>
+          <p>
+            <a href="mailto:fguerin555@gmail.com">fguerin555@gmail.com</a>
+          </p>
         </div>
 
         <ScrollToTop />

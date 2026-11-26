@@ -75,7 +75,9 @@ const ItalianoHome = () => {
             Alla “Takeaway Gallery Roma.
           </p>
 
-          <p>fguerin555@gmail.com</p>
+          <p>
+            <a href="mailto:fguerin555@gmail.com">fguerin555@gmail.com</a>
+          </p>
         </div>
 
         <ScrollToTop />

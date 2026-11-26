@@ -47,7 +47,6 @@ const EnglishHome = () => {
           <p>
             2007: Group exhibition at "L'IMPRONTA" – Amelia Buzzi-Puccini, Rome.
           </p>
-
           <p>2008: Solo exhibition at Galleria Horti Lamiani, Rome.</p>
           <p>
             2009: Group exhibition at the Museum of Contemporary Art of
@@ -76,12 +75,13 @@ const EnglishHome = () => {
             consisting of 1,000 oil-on-canvas pieces, each measuring 14 x 9 cm.
           </p>
           <p>2022/2026: Digital Creation for the "111-Totems" collection.</p>
-
           <p>
             December 2026: Collective exhibition “Un Opera, una coppia, un
             lavoro. At Gallery “Takeaway Gallery Rome.
           </p>
-          <p>fguerin555@gmail.com</p>
+          <p>
+            <a href="mailto:fguerin555@gmail.com">fguerin555@gmail.com</a>
+          </p>
         </div>
 
         <ScrollToTop />
