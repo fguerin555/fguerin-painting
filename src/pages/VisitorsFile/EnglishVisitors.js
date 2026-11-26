@@ -39,7 +39,7 @@ const EnglishVisitors = () => {
           <div>
             <p>
               Phase 1: completed, digital flat graphic of 111 totems. Printable
-              on aluminum; Limited edition of 5 copies.
+              on aluminum; Limited edition of 6 copies.
             </p>
             <div className={styles.WorksButton}>
               <Link to="/Visitors">
@@ -49,7 +49,7 @@ const EnglishVisitors = () => {
             <p>. . . . . . . . . . . . . . . . . </p>
             <p>
               Phase 2: Printing of the *trompe-l'œil* bas-relief ceramic-style
-              totems. (Printed on ®Forex, 33x33 cm; limited edition of 5 copies
+              totems. (Printed on ®Forex, 33x33 cm; limited edition of 6 copies
               maximum.)
             </p>
             <div className={styles.WorksButton}>
@@ -61,7 +61,7 @@ const EnglishVisitors = () => {
 
             <p>
               Phase 3: Production of the colored ceramic bas-reliefs.
-              Dimensions: 30x30 cm. Maximum edition of 5 pieces.
+              Dimensions: 30x30 cm. Maximum edition of 6 pieces.
             </p>
             <p>. . . . . . . . . . . . . . . .............................</p>
             <p>

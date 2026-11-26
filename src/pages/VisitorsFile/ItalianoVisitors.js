@@ -35,7 +35,7 @@ const ItalianoVisitors = () => {
           <div>
             <p>
               Fase 1: completata, consiste nella realizzazione grafica digitale
-              in piano dei 111 Totem. Stampabili su aluminio. tiratura massima 5
+              in piano dei 111 Totem. Stampabili su aluminio. tiratura massima 6
               esemplari.
             </p>
             <div className={styles.WorksButton}>
@@ -46,7 +46,7 @@ const ItalianoVisitors = () => {
             <p>. . . . . . . . . . . . . . . . . </p>
             <p>
               Fase 2: stampa dei totem in *trompe-l'œil* bassorilievo ceramica.
-              (stampa su ®Forex, 33x33 cm) tiratura massima 5 esemplari.
+              (stampa su ®Forex, 33x33 cm) tiratura massima 6 esemplari.
             </p>
 
             <div className={styles.WorksButton}>
@@ -57,7 +57,7 @@ const ItalianoVisitors = () => {
             <p>. . . . . . . . . . . . . . . </p>
             <p>
               Fase 3: Produzione materiale dei bassorilievi in ​​ceramica
-              colorata. Dimensioni: 30x30 cm. tiratura massima 5 esemplari.
+              colorata. Dimensioni: 30x30 cm. tiratura massima 6 esemplari.
             </p>
             <p>. . . . . . . . . . . . . . . .............................</p>
             <p>

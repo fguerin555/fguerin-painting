@@ -35,7 +35,7 @@ const FrancaisVisitors = () => {
           <div>
             <p>
               Phase 1: Réalisation numérique graphique à plat des 111 Totems.
-              Imprimables sur aluminium. tirage limité à 5 exemplaires.
+              Imprimables sur aluminium. tirage limité à 6 exemplaires.
             </p>
             <div className={styles.WorksButton}>
               <Link to="/Visitors">
@@ -47,7 +47,7 @@ const FrancaisVisitors = () => {
             <p>
               {" "}
               Phase 2: impression des totems en *trompe-l'œil* bas-relief
-              céramique. (impression sur ®Forex, 33x33 cm) tirage limité à 5
+              céramique. (impression sur ®Forex, 33x33 cm) tirage limité à 6
               exemplaires.
             </p>
             <div className={styles.WorksButton}>
@@ -59,7 +59,7 @@ const FrancaisVisitors = () => {
 
             <p>
               Phase3 : Réalisation matérielle des bas-reliefs en céramique
-              colorée. Dimensions : 30 x 30 cm. tirage limité à 5 exemplaires.
+              colorée. Dimensions : 30 x 30 cm. tirage limité à 6 exemplaires.
             </p>
             <p>. . . . . . . . . . . . . . . .............................</p>
             <p>
