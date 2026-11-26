@@ -76,11 +76,12 @@ const EnglishHome = () => {
             consisting of 1,000 oil-on-canvas pieces, each measuring 14 x 9 cm.
           </p>
           <p>2022/2026: Digital Creation for the "111-Totems" collection.</p>
-          <p>fguerin555@gmail.com</p>
+
           <p>
             December 2026: Collective exhibition “Un Opera, una coppia, un
             lavoro. At Gallery “Takeaway Gallery Rome.
           </p>
+          <p>fguerin555@gmail.com</p>
         </div>
 
         <ScrollToTop />

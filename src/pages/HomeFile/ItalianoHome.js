@@ -72,8 +72,9 @@ const ItalianoHome = () => {
           <p>2022/2026: Produzione digitale per la collezione "111-Totems".</p>
           <p>
             Dicembre 2026: Mostra collettiva “Un Opera, una coppia, un lavoro.
+            Alla “Takeaway Gallery Roma.
           </p>
-          Alla “Takeaway Gallery Roma.
+
           <p>fguerin555@gmail.com</p>
         </div>
 
