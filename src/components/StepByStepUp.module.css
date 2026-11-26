@@ -1,0 +1,35 @@
+.scrollBtn {
+  position: fixed;
+  bottom: 75px;
+  right: 6px;
+  z-index: 1000;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: none;
+  background-color: #1a1a1a45;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  transition:
+    transform 0.2s ease,
+    background-color 0.2s ease,
+    opacity 0.3s ease;
+}
+
+.scrollBtn:hover {
+  background-color: #a475c1bc;
+  transform: translateY(3px);
+}
+
+.scrollBtn:active {
+  transform: translateY(1px);
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+}

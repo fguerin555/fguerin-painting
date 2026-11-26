@@ -4,7 +4,9 @@ import "../../Global.css";
 import styles from "./Ceramique.module.css";
 import ScrollToTop from "../../components/ScrollToTop";
 import BackButton from "../../components/BackButton";
-
+import StepByStepUp from "../../components/StepByStepUp";
+import StepByStepDown from "../../components/StepByStepDown";
+import ScrollToEnd from "../../components/ScrollToEnd";
 import imag1 from "../../assets/Ceramique/ceramique1.png";
 import imag2 from "../../assets/Ceramique/ceramique2.png";
 import imag3 from "../../assets/Ceramique/ceramique3.png";
@@ -454,6 +456,9 @@ const Ceramique = () => {
       <div>
         <ScrollToTop />
         <BackButton />
+        <StepByStepUp />
+        <StepByStepDown />
+        <ScrollToEnd />
       </div>
     </div>
   );

@@ -5,6 +5,9 @@ import styles from "./Totem.module.css";
 import ScrollToTop from "../../components/ScrollToTop";
 import BackButton from "../../components/BackButton";
 import imag1 from "../../assets/Visitors-img/visitor 1 Open.jpg";
+import StepByStepUp from "../../components/StepByStepUp";
+import StepByStepDown from "../../components/StepByStepDown";
+import ScrollToEnd from "../../components/ScrollToEnd";
 const Totem = () => {
   return (
     <div>
@@ -45,6 +48,9 @@ const Totem = () => {
       <div>
         <ScrollToTop />
         <BackButton />
+        <StepByStepUp />
+        <StepByStepDown />
+        <ScrollToEnd />
       </div>
     </div>
   );
