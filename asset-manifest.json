@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fguerin-painting/static/css/main.bf276769.css",
-    "main.js": "/fguerin-painting/static/js/main.65eac337.js",
+    "main.js": "/fguerin-painting/static/js/main.089cdfbf.js",
     "static/media/visitor 56.jpg": "/fguerin-painting/static/media/visitor 56.e3277defb55303315b3f.jpg",
     "static/media/ceramique1.png": "/fguerin-painting/static/media/ceramique1.b8d9716da86a0a26ab25.png",
     "static/media/ceramique39.png": "/fguerin-painting/static/media/ceramique39.6b89faa3722dbf148502.png",
@@ -35,8 +35,8 @@
     "static/media/ceramique9.png": "/fguerin-painting/static/media/ceramique9.3f1066ba8b84a45e45c0.png",
     "static/media/ceramique30.png": "/fguerin-painting/static/media/ceramique30.b54bb212e6db2899a2f8.png",
     "static/media/ceramique21.png": "/fguerin-painting/static/media/ceramique21.20d56e63a4e832c6fafd.png",
+    "static/media/ceramique41.png": "/fguerin-painting/static/media/ceramique41.66ae56d0d1f2fd93e42a.png",
     "static/media/ceramique8.png": "/fguerin-painting/static/media/ceramique8.9cd1ecf329b08be5ea9b.png",
-    "static/media/ceramique41.png": "/fguerin-painting/static/media/ceramique41.a2da3adf53efaf8a190b.png",
     "static/media/ceramique32.png": "/fguerin-painting/static/media/ceramique32.757b81db7935cc790546.png",
     "static/media/ceramique17.png": "/fguerin-painting/static/media/ceramique17.7e1470af6fdaaec575cc.png",
     "static/media/ceramique5.png": "/fguerin-painting/static/media/ceramique5.00c841796a3c200de558.png",
@@ -248,10 +248,10 @@
     "static/media/MI392.jpg": "/fguerin-painting/static/media/MI392.397380cbb807f13d5a8b.jpg",
     "index.html": "/fguerin-painting/index.html",
     "main.bf276769.css.map": "/fguerin-painting/static/css/main.bf276769.css.map",
-    "main.65eac337.js.map": "/fguerin-painting/static/js/main.65eac337.js.map"
+    "main.089cdfbf.js.map": "/fguerin-painting/static/js/main.089cdfbf.js.map"
   },
   "entrypoints": [
     "static/css/main.bf276769.css",
-    "static/js/main.65eac337.js"
+    "static/js/main.089cdfbf.js"
   ]
 }
