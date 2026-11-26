@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fguerin-painting/static/css/main.5f91d4db.css",
-    "main.js": "/fguerin-painting/static/js/main.f399c9c0.js",
+    "main.js": "/fguerin-painting/static/js/main.63861fc0.js",
     "static/media/visitor 56.jpg": "/fguerin-painting/static/media/visitor 56.e3277defb55303315b3f.jpg",
     "static/media/ceramique1.png": "/fguerin-painting/static/media/ceramique1.b8d9716da86a0a26ab25.png",
     "static/media/ceramique39.png": "/fguerin-painting/static/media/ceramique39.6b89faa3722dbf148502.png",
@@ -17,6 +17,7 @@
     "static/media/ceramique33.png": "/fguerin-painting/static/media/ceramique33.3ae786fe12b14c458263.png",
     "static/media/ceramique29.png": "/fguerin-painting/static/media/ceramique29.91bcab486412d0486885.png",
     "static/media/ceramique23.png": "/fguerin-painting/static/media/ceramique23.6f7a51b14cec2e110ed7.png",
+    "static/media/ceramique13.png": "/fguerin-painting/static/media/ceramique13.e666d85c8c26b66f804c.png",
     "static/media/ceramique28.png": "/fguerin-painting/static/media/ceramique28.5c9cfbdcfcfbc942201c.png",
     "static/media/ceramique14.png": "/fguerin-painting/static/media/ceramique14.0dd67932526b09008d8e.png",
     "static/media/ceramique12.png": "/fguerin-painting/static/media/ceramique12.4624960e04b2547412a9.png",
@@ -43,7 +44,6 @@
     "static/media/ceramique2.png": "/fguerin-painting/static/media/ceramique2.563cdadd885a15c8d21a.png",
     "static/media/ceramique10.png": "/fguerin-painting/static/media/ceramique10.1beb4988ef1edd443037.png",
     "static/media/ceramique27.png": "/fguerin-painting/static/media/ceramique27.dff4efacb63bacf357a1.png",
-    "static/media/ceramique13.png": "/fguerin-painting/static/media/ceramique13.553bb3f7dabb1eca38e0.png",
     "static/media/ceramique6.png": "/fguerin-painting/static/media/ceramique6.c8b350fed11cd56cfa8c.png",
     "static/media/ceramique20.png": "/fguerin-painting/static/media/ceramique20.7e80a4bef68cd573f73e.png",
     "static/media/ceramique19.png": "/fguerin-painting/static/media/ceramique19.c941b2d6131e6181f996.png",
@@ -248,10 +248,10 @@
     "static/media/MI392.jpg": "/fguerin-painting/static/media/MI392.397380cbb807f13d5a8b.jpg",
     "index.html": "/fguerin-painting/index.html",
     "main.5f91d4db.css.map": "/fguerin-painting/static/css/main.5f91d4db.css.map",
-    "main.f399c9c0.js.map": "/fguerin-painting/static/js/main.f399c9c0.js.map"
+    "main.63861fc0.js.map": "/fguerin-painting/static/js/main.63861fc0.js.map"
   },
   "entrypoints": [
     "static/css/main.5f91d4db.css",
-    "static/js/main.f399c9c0.js"
+    "static/js/main.63861fc0.js"
   ]
 }
