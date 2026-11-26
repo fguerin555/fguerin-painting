@@ -76,6 +76,10 @@ const FrancaisHome = () => {
             2022/2026: Production d'Art Numérique pour la collection
             "111-Totems".
           </p>
+          <p>
+            Décembre 2026: Expo collective "Un Opera, una coppia, un lavoro.
+            Gallerie "Takeaway Gallery Rome.
+          </p>
           <p>fguerin555@gmail.com</p>
         </div>
 

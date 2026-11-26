@@ -77,6 +77,10 @@ const EnglishHome = () => {
           </p>
           <p>2022/2026: Digital Creation for the "111-Totems" collection.</p>
           <p>fguerin555@gmail.com</p>
+          <p>
+            December 2026: Collective exhibition “Un Opera, una coppia, un
+            lavoro. At Gallery “Takeaway Gallery Rome.
+          </p>
         </div>
 
         <ScrollToTop />
