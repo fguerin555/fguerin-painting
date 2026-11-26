@@ -45,12 +45,13 @@ const Totem = () => {
           <button>Ceramics</button>
         </Link>
       </div>
+
       <div>
-        <ScrollToTop />
-        <BackButton />
         <StepByStepUp />
         <StepByStepDown />
         <ScrollToEnd />
+        <ScrollToTop />
+        <BackButton />
       </div>
     </div>
   );
