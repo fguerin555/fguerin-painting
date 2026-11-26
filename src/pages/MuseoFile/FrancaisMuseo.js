@@ -32,23 +32,13 @@ const FrancaisMuseo = () => {
             <p>Collection Museo Infinito</p>{" "}
           </div>
 
-          <div className={styles.MailLink}>
-            {" "}
-            <p>Pour toutes informations : </p>
-            <a href="mailto:fguerin555a@gmail.com">fguerin555@gmail.com</a>
-          </div>
-
           <div className={styles.Text}>
             <p>
-              Soyez un collectionneur d’art et suivez l’évolution du "MUSEO
-              INFINITO" Art contemporain accessible... Peintures à l’huile sur
-              toile carton (14,5 x 9 cm - 5,71 x 3,54 pouces), toutes signées et
-              numérotées, 20 euros l'exemplaire. Suivant le concept des musées
-              qui accueillent différents langages artistiques, un nouvel art
-              freestyle est né, qui raconte la relation entre l’œuvre et le
-              public.
+              "MUSEO INFINITO" (- 2012-2015 -) 800 Huiles sur toiles cartonnées
+              14,5 x 9 cm.
+              <p>Free Style Museum Visit</p>
             </p>
-            <p> Frédéric Guérin</p>
+            <p>Frédéric Guérin</p>
           </div>
 
           <div className={styles.ButtonContainer}>

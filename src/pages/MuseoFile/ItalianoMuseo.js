@@ -32,23 +32,13 @@ const ItalianoMuseo = () => {
             <p>Collezione Museo Infinito</p>{" "}
           </div>
 
-          <div className={styles.MailLink}>
-            {" "}
-            <p>Per tutte le informazione : </p>
-            <a href="mailto:fguerin555a@gmail.com">fguerin555@gmail.com</a>
-          </div>
-
           <div className={styles.Text}>
             <p>
-              Essere un collezionista d'arte e seguire l'evoluzione del "MUSEO
-              INFINITO" L'arte contemporanea accessibile..... Pitture ad olio su
-              tela di cartone (14,5 x 9 cm - 5,71 x 3,54 pollici), tutte firmate
-              e numerate, a 20 euro l'una. Seguendo il concetto di musei che
-              ospitano diversi linguaggi artistici, nasce una nuova arte
-              freestyle, che racconta la relazione tra l'opera d'arte e il
-              pubblico.
+              "MUSEO INFINITO" (- 2012-2015 -) 800 oli su tela cartonata 14,5 x
+              9 cm.
+              <p>Free Style Museum Visit</p>
             </p>
-            <p> Frédéric Guérin</p>
+            <p>Frédéric Guérin</p>
           </div>
 
           <div className={styles.ButtonContainer}>

@@ -32,23 +32,13 @@ const EnglishMuseo = () => {
             <p>Museo Infinito Collection</p>{" "}
           </div>
 
-          <div className={styles.MailLink}>
-            {" "}
-            <p>For any informations : </p>
-            <a href="mailto:fguerin555a@gmail.com">fguerin555@gmail.com</a>
-          </div>
-
           <div className={styles.Text}>
             <p>
-              Be an art collector and follow the evolution of the "MUSEO
-              INFINITO" The affordable contemporary art….. Small-size oil
-              paintings on cardboard canvas (14,5 x 9 cm - 5,71 x 3,54 inches),
-              all signed and numbered, at 20 Euro each. Following the concept of
-              museums housing different artistic languages, a new freestyle art
-              is born, that tells the relationship between the artwork and the
-              public
+              "MUSEO INFINITO" (- 2012-2015 -) 800 oil paintings on
+              canvas-covered board 14.5 x 9 cm.
+              <p>Free Style Museum Visit</p>
             </p>
-            <p> Frédéric Guérin</p>
+            <p>Frédéric Guérin</p>
           </div>
 
           <div className={styles.ButtonContainer}>
