@@ -73,7 +73,7 @@
   margin: 0; /* Évite le décalage vertical dû à la marge par défaut des <p> */
   font-size: 40px;
   font-family: "Montserrat-Thin", Arial, sans-serif;
-  color: rgba(253, 250, 250, 0.3);
+  color: rgba(253, 250, 250, 0.1);
 }
 .nom {
   color: rgb(13, 1, 1);

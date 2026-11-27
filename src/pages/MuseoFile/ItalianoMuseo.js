@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import styles from "./ItalianoMuseo.module.css";
 import ScrollToTop from "../../components/ScrollToTop";
 import BackButton from "../../components/BackButton";
+import BeforeFooterMuseo from "../../components/BeforeFooterMuseo";
 
 const ItalianoMuseo = () => {
   return (
@@ -89,6 +90,7 @@ const ItalianoMuseo = () => {
         </div>
         <ScrollToTop />
         <BackButton />
+        <BeforeFooterMuseo />
       </div>
     </div>
   );

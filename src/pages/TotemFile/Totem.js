@@ -8,6 +8,7 @@ import imag1 from "../../assets/Visitors-img/visitor 1 Open.jpg";
 import StepByStepUp from "../../components/StepByStepUp";
 import StepByStepDown from "../../components/StepByStepDown";
 import ScrollToEnd from "../../components/ScrollToEnd";
+
 const Totem = () => {
   return (
     <div>
@@ -45,6 +46,7 @@ const Totem = () => {
           <button>Ceramics</button>
         </Link>
       </div>
+      <div className={styles.BeforeFooterCeramic}></div>
 
       <div>
         <StepByStepUp />
